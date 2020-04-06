@@ -1,952 +1,952 @@
 [
     {
         "id": "0",
-        "name": "Maribacter sp. 4U21 (Strain: 4U21)",
+        "name": "Maribacter sp.",
         "parent": "1983"
     },
     {
         "id": "4",
-        "name": "Xanthomonadaceae bacterium AQ6-296 (Strain: AQ6-296)",
+        "name": "Xanthomonadaceae bacterium",
         "parent": "1984"
     },
     {
         "id": "8",
-        "name": "Halomonas aestuarii (Strain: Hb3)",
+        "name": "Halomonas aestuarii",
         "parent": "1983"
     },
     {
         "id": "12",
-        "name": "Lactobacillus mixtipabuli (Strain: IWT30)",
+        "name": "Lactobacillus mixtipabuli",
         "parent": "1984"
     },
     {
         "id": "16",
-        "name": "Hansschlegelia zhihuaiae (Strain: S 113)",
+        "name": "Hansschlegelia zhihuaiae",
         "parent": "1984"
     },
     {
         "id": "20",
-        "name": "Novosphingobium sp. PC22D (Strain: PC22D)",
+        "name": "Novosphingobium sp.",
         "parent": "1983"
     },
     {
         "id": "24",
-        "name": "Henriciella algicola (Strain: CCUG67844)",
+        "name": "Henriciella algicola",
         "parent": "1983"
     },
     {
         "id": "28",
-        "name": "Polaribacter sp. ZY113 (Strain: ZY113)",
+        "name": "Polaribacter sp.",
         "parent": "1618"
     },
     {
         "id": "32",
-        "name": "Pseudomonas fluorescens (strain ATCC BAA-477 / NRRL B-23932 / Pf-5) (Strain: ATCC BAA-477 / NRRL B-23932 / Pf-5)",
+        "name": "Pseudomonas fluorescens",
         "parent": "1980"
     },
     {
         "id": "36",
-        "name": "Vibrio ishigakensis (Strain: JCM 19231)",
+        "name": "Vibrio ishigakensis",
         "parent": "1982"
     },
     {
         "id": "40",
-        "name": "Parasporobacterium paucivorans DSM 15970 (Strain: DSM 15970)",
+        "name": "Parasporobacterium paucivorans",
         "parent": "1984"
     },
     {
         "id": "44",
-        "name": "Anaerocolumna aminovalerica (Strain: DSM 1283)",
+        "name": "Anaerocolumna aminovalerica",
         "parent": "1983"
     },
     {
         "id": "48",
-        "name": "Ereboglobus luteus (Strain: Ho45)",
+        "name": "Ereboglobus luteus",
         "parent": "1983"
     },
     {
         "id": "52",
-        "name": "Sporomusa sphaeroides DSM 2875 (Strain: DSM 2875)",
+        "name": "Sporomusa sphaeroides",
         "parent": "1984"
     },
     {
         "id": "56",
-        "name": "Variovorax sp. JS1663",
+        "name": "Variovorax sp.",
         "parent": "1983"
     },
     {
         "id": "60",
-        "name": "Micrococcus luteus (strain ATCC 4698 / DSM 20030 / JCM 1464 / NBRC 3333 / NCIMB 9278 / NCTC 2665 / VKM Ac-2230) (Micrococcus lysodeikticus) (Strain: ATCC 4698 / DSM 20030 / JCM 1464 / NBRC 3333 / NCIMB 9278 / NCTC 2665 / VKM Ac-2230)",
+        "name": "Micrococcus luteus",
         "parent": "1980"
     },
     {
         "id": "64",
-        "name": "Candidatus Accumulibacter sp. SK-12 (Strain: SK-12)",
+        "name": "Candidatus Accumulibacter",
         "parent": "1983"
     },
     {
         "id": "68",
-        "name": "Actinobaculum sp. 352 (Strain: 352)",
+        "name": "Actinobaculum sp.",
         "parent": "1983"
     },
     {
         "id": "72",
-        "name": "Reichenbachiella sp. 5M10 (Strain: 5M10)",
+        "name": "Reichenbachiella sp.",
         "parent": "1984"
     },
     {
         "id": "76",
-        "name": "Roseburia sp. CAG:380 (Strain: MGS:380)",
+        "name": "Roseburia sp.",
         "parent": "1984"
     },
     {
         "id": "80",
-        "name": "Streptomyces globosus (Strain: LZH-48)",
+        "name": "Streptomyces globosus",
         "parent": "1980"
     },
     {
         "id": "84",
-        "name": "Thauera sp. D20 (Strain: D20)",
+        "name": "Thauera sp.",
         "parent": "1983"
     },
     {
         "id": "88",
-        "name": "Geobacter bemidjiensis (strain Bem / ATCC BAA-1014 / DSM 16622) (Strain: Bem / ATCC BAA-1014 / DSM 16622)",
+        "name": "Geobacter bemidjiensis",
         "parent": "1983"
     },
     {
         "id": "92",
-        "name": "Prosthecobacter debontii (Strain: ATCC 700200)",
+        "name": "Prosthecobacter debontii",
         "parent": "1983"
     },
     {
         "id": "96",
-        "name": "Treponema sp. J25 (Strain: J25)",
+        "name": "Treponema sp.",
         "parent": "1983"
     },
     {
         "id": "100",
-        "name": "Yuhushiella deserti (Strain: CGMCC 4.5579)",
+        "name": "Yuhushiella deserti",
         "parent": "1983"
     },
     {
         "id": "104",
-        "name": "Geomicrobium sp. JCM 19038 (Strain: JCM 19038)",
+        "name": "Geomicrobium sp.",
         "parent": "1983"
     },
     {
         "id": "108",
-        "name": "Micromonospora sp. CNZ295 (Strain: CNZ295)",
+        "name": "Micromonospora sp.",
         "parent": "1957"
     },
     {
         "id": "112",
-        "name": "Photobacterium aphoticum (Strain: DSM 25995)",
+        "name": "Photobacterium aphoticum",
         "parent": "1983"
     },
     {
         "id": "116",
-        "name": "Salinicoccus alkaliphilus DSM 16010 (Strain: DSM 16010)",
+        "name": "Salinicoccus alkaliphilus",
         "parent": "1957"
     },
     {
         "id": "120",
-        "name": "Streptomyces sp. Mg1 (Strain: Mg1)",
+        "name": "Streptomyces sp.",
         "parent": "1358"
     },
     {
         "id": "124",
-        "name": "Microbispora triticiradicis (Strain: NEAU-HRDPA2-9)",
+        "name": "Microbispora triticiradicis",
         "parent": "1982"
     },
     {
         "id": "128",
-        "name": "Arenimonas oryziterrae DSM 21050 = YC6267 (Strain: YC6267)",
+        "name": "Arenimonas oryziterrae",
         "parent": "1980"
     },
     {
         "id": "132",
-        "name": "Actinoplanes missouriensis (strain ATCC 14538 / DSM 43046 / CBS 188.64 / JCM 3121 / NCIMB 12654 / NBRC 102363 / 431) (Strain: ATCC 14538 / DSM 43046 / CBS 188.64 / JCM 3121 / NCIMB 12654 / NBRC 102363 / 431)",
+        "name": "Actinoplanes missouriensis",
         "parent": "1983"
     },
     {
         "id": "136",
-        "name": "Thermophagus xiamenensis (Strain: DSM 19012)",
+        "name": "Thermophagus xiamenensis",
         "parent": "1618"
     },
     {
         "id": "140",
-        "name": "Marininema mesophilum (Strain: DSM 45610)",
+        "name": "Marininema mesophilum",
         "parent": "1964"
     },
     {
         "id": "144",
-        "name": "Pleurocapsa sp. CCALA 161 (Strain: CCALA 161)",
+        "name": "Pleurocapsa sp.",
         "parent": "1957"
     },
     {
         "id": "148",
-        "name": "Ahrensia marina (Strain: LZD062)",
+        "name": "Ahrensia marina",
         "parent": "1984"
     },
     {
         "id": "152",
-        "name": "Leucobacter sp. 7(1) (Strain: 7(1))",
+        "name": "Leucobacter sp.",
         "parent": "1983"
     },
     {
         "id": "156",
-        "name": "Salinicoccus roseus (Strain: W12)",
+        "name": "Salinicoccus roseus",
         "parent": "1981"
     },
     {
         "id": "160",
-        "name": "Aquabacterium commune (Strain: DSM 11901)",
+        "name": "Aquabacterium commune",
         "parent": "1983"
     },
     {
         "id": "164",
-        "name": "Sedimentitalea nanhaiensis (Strain: CGMCC 1.10959)",
+        "name": "Sedimentitalea nanhaiensis",
         "parent": "1981"
     },
     {
         "id": "168",
-        "name": "Rhodobacterales bacterium HTCC2255 (Strain: HTCC2255)",
+        "name": "Rhodobacterales bacterium",
         "parent": "1981"
     },
     {
         "id": "172",
-        "name": "Enterococcus italicus (strain DSM 15952 / LMG 22039 / TP 1.5) (Strain: DSM 15952 / LMG 22039 / TP 1.5)",
+        "name": "Enterococcus italicus",
         "parent": "1983"
     },
     {
         "id": "176",
-        "name": "Coprococcus sp. CAG:782 (Strain: MGS:782)",
+        "name": "Coprococcus sp.",
         "parent": "1983"
     },
     {
         "id": "180",
-        "name": "Modestobacter sp. DSM 44400 (Strain: DSM 44400)",
+        "name": "Modestobacter sp.",
         "parent": "1981"
     },
     {
         "id": "184",
-        "name": "Ktedonobacterales bacterium SCAWS-G2 (Strain: SCAWS-G2)",
+        "name": "Ktedonobacterales bacterium",
         "parent": "1983"
     },
     {
         "id": "188",
-        "name": "Ruminococcaceae bacterium YRB3002 (Strain: YRB3002)",
+        "name": "Ruminococcaceae bacterium",
         "parent": "1983"
     },
     {
         "id": "192",
-        "name": "Nocardiopsis sp. JB363 (Strain: JB363)",
+        "name": "Nocardiopsis sp.",
         "parent": "1983"
     },
     {
         "id": "196",
-        "name": "Phascolarctobacterium sp. CAG:207 (Strain: MGS:207)",
+        "name": "Phascolarctobacterium sp.",
         "parent": "1982"
     },
     {
         "id": "200",
-        "name": "Longimonas halophila (Strain: KCTC 42399)",
+        "name": "Longimonas halophila",
         "parent": "1980"
     },
     {
         "id": "204",
-        "name": "Nicoletella semolina (Strain: DSM 16380)",
+        "name": "Nicoletella semolina",
         "parent": "1980"
     },
     {
         "id": "208",
-        "name": "Janthinobacterium agaricidamnosum NBRC 102515 = DSM 9628 (Strain: NBRC 102515 / DSM 9628)",
+        "name": "Janthinobacterium agaricidamnosum",
         "parent": "1980"
     },
     {
         "id": "212",
-        "name": "Roseovarius sp. HN-E21 (Strain: HN-E21)",
+        "name": "Roseovarius sp.",
         "parent": "1983"
     },
     {
         "id": "216",
-        "name": "Pedobacter metabolipauper (Strain: DSM 19035)",
+        "name": "Pedobacter metabolipauper",
         "parent": "1983"
     },
     {
         "id": "220",
-        "name": "Marmoricola sp. Leaf446 (Strain: Leaf446)",
+        "name": "Marmoricola sp.",
         "parent": "1981"
     },
     {
         "id": "224",
-        "name": "Solibacillus sp. R5-41 (Strain: R5-41)",
+        "name": "Solibacillus sp.",
         "parent": "1981"
     },
     {
         "id": "228",
-        "name": "Cyclobacterium lianum (Strain: CGMCC 1.6102)",
+        "name": "Cyclobacterium lianum",
         "parent": "1983"
     },
     {
         "id": "232",
-        "name": "Micromonospora sp. Llam0 (Strain: Llam0)",
+        "name": "Micromonospora sp.",
         "parent": "1983"
     },
     {
         "id": "236",
-        "name": "Rubinisphaera brasiliensis (strain ATCC 49424 / DSM 5305 / JCM 21570 / NBRC 103401 / IFAM 1448) (Planctomyces brasiliensis) (Strain: ATCC 49424 / DSM 5305 / JCM 21570 / NBRC 103401 / IFAM 1448)",
+        "name": "Rubinisphaera brasiliensis",
         "parent": "1984"
     },
     {
         "id": "240",
-        "name": "Aquabacterium sp. SJQ9 (Strain: SJQ9)",
+        "name": "Aquabacterium sp.",
         "parent": "1957"
     },
     {
         "id": "244",
-        "name": "Aquimarina aggregata (Strain: RZW4-3-2)",
+        "name": "Aquimarina aggregata",
         "parent": "1980"
     },
     {
         "id": "248",
-        "name": "Bacillus horneckiae (Strain: 1PO1SC)",
+        "name": "Bacillus horneckiae",
         "parent": "1983"
     },
     {
         "id": "252",
-        "name": "Salinibacterium sp. S1194 (Strain: S1194)",
+        "name": "Salinibacterium sp.",
         "parent": "1983"
     },
     {
         "id": "256",
-        "name": "Nitrosovibrio tenuis (Strain: Nv1)",
+        "name": "Nitrosovibrio tenuis",
         "parent": "1980"
     },
     {
         "id": "260",
-        "name": "Hoeflea marina (Strain: DSM 16791)",
+        "name": "Hoeflea marina",
         "parent": "1983"
     },
     {
         "id": "264",
-        "name": "Streptomyces sp. C (Strain: C)",
+        "name": "Streptomyces sp.",
         "parent": "1984"
     },
     {
         "id": "268",
-        "name": "Biostraticola sp. BGMRC 2031 (Strain: BGMRC 2031)",
+        "name": "Biostraticola sp.",
         "parent": "1984"
     },
     {
         "id": "272",
-        "name": "Prevotella sp. CAG:1058 (Strain: MGS:1058)",
+        "name": "Prevotella sp.",
         "parent": "1983"
     },
     {
         "id": "276",
-        "name": "Noviherbaspirillum denitrificans (Strain: TSA40)",
+        "name": "Noviherbaspirillum denitrificans",
         "parent": "1983"
     },
     {
         "id": "280",
-        "name": "Actinomadura umbrina (Strain: DSM 43927)",
+        "name": "Actinomadura umbrina",
         "parent": "1957"
     },
     {
         "id": "284",
-        "name": "Legionella sp. km714 (Strain: km714)",
+        "name": "Legionella sp.",
         "parent": "1983"
     },
     {
         "id": "288",
-        "name": "Arthrobacter alpinus (Strain: R3.8)",
+        "name": "Arthrobacter alpinus",
         "parent": "1868"
     },
     {
         "id": "292",
-        "name": "Tabrizicola sp. K13M18 (Strain: K13M18)",
+        "name": "Tabrizicola sp.",
         "parent": "1358"
     },
     {
         "id": "296",
-        "name": "Breoghania corrubedonensis (Strain: DSM 23382)",
+        "name": "Breoghania corrubedonensis",
         "parent": "1981"
     },
     {
         "id": "300",
-        "name": "Arachidicoccus rhizosphaerae (Strain: Vu-144)",
+        "name": "Arachidicoccus rhizosphaerae",
         "parent": "1983"
     },
     {
         "id": "304",
-        "name": "Variovorax paradoxus (Strain: TBEA6)",
+        "name": "Variovorax paradoxus",
         "parent": "1984"
     },
     {
         "id": "308",
-        "name": "Kingella oralis ATCC 51147 (Strain: ATCC 51147)",
+        "name": "Kingella oralis",
         "parent": "1983"
     },
     {
         "id": "312",
-        "name": "Curvibacter sp. PAE-UM (Strain: PAE-UM)",
+        "name": "Curvibacter sp.",
         "parent": "1984"
     },
     {
         "id": "316",
-        "name": "Cohaesibacter sp. ES.047 (Strain: ES.047)",
+        "name": "Cohaesibacter sp.",
         "parent": "1981"
     },
     {
         "id": "320",
-        "name": "Bacillus asahii (Strain: MA001)",
+        "name": "Bacillus asahii",
         "parent": "1983"
     },
     {
         "id": "324",
-        "name": "Sphingosinicella microcystinivorans (Strain: DSM 19791)",
+        "name": "Sphingosinicella microcystinivorans",
         "parent": "1982"
     },
     {
         "id": "328",
-        "name": "Firmicutes bacterium CAG:882 (Strain: MGS:882)",
+        "name": "Firmicutes bacterium",
         "parent": "1983"
     },
     {
         "id": "332",
-        "name": "Tessaracoccus flavus (Strain: RP1T)",
+        "name": "Tessaracoccus flavus",
         "parent": "1668"
     },
     {
         "id": "336",
-        "name": "Deinococcus hopiensis KR-140 (Strain: KR-140)",
+        "name": "Deinococcus hopiensis",
         "parent": "1984"
     },
     {
         "id": "340",
-        "name": "Simiduia agarivorans (strain DSM 21679 / JCM 13881 / BCRC 17597 / SA1) (Strain: DSM 21679 / JCM 13881 / BCRC 17597 / SA1)",
+        "name": "Simiduia agarivorans",
         "parent": "1983"
     },
     {
         "id": "344",
-        "name": "Nonomuraea sp. KC201 (Strain: KC201)",
+        "name": "Nonomuraea sp.",
         "parent": "1981"
     },
     {
         "id": "348",
-        "name": "Flavobacterium sp. RB1R5 (Strain: RB1R5)",
+        "name": "Flavobacterium sp.",
         "parent": "1983"
     },
     {
         "id": "352",
-        "name": "Mycobacteriaceae bacterium 1482268.1 (Strain: 1482268.1)",
+        "name": "Mycobacteriaceae bacterium",
         "parent": "1981"
     },
     {
         "id": "356",
-        "name": "Anaeromassilibacillus sp. An250 (Strain: An250)",
+        "name": "Anaeromassilibacillus sp.",
         "parent": "1980"
     },
     {
         "id": "360",
-        "name": "Saccharibacillus sp. O16 (Strain: O16)",
+        "name": "Saccharibacillus sp.",
         "parent": "1983"
     },
     {
         "id": "364",
-        "name": "Verrucomicrobium sp. GAS474 (Strain: GAS474)",
+        "name": "Verrucomicrobium sp.",
         "parent": "1983"
     },
     {
         "id": "368",
-        "name": "Bradyrhizobium sp. LMTR 3 (Strain: LMTR 3)",
+        "name": "Bradyrhizobium sp.",
         "parent": "1983"
     },
     {
         "id": "372",
-        "name": "Microbacterium oleivorans (Strain: RIT293)",
+        "name": "Microbacterium oleivorans",
         "parent": "1983"
     },
     {
         "id": "376",
-        "name": "Alcaligenes sp. EGD-AK7 (Strain: EGD-AK7)",
+        "name": "Alcaligenes sp.",
         "parent": "1983"
     },
     {
         "id": "380",
-        "name": "Alteromonadaceae bacterium Bs31 (Strain: Bs31)",
+        "name": "Alteromonadaceae bacterium",
         "parent": "1984"
     },
     {
         "id": "384",
-        "name": "Paracoccus saliphilus (Strain: DSM 18447)",
+        "name": "Paracoccus saliphilus",
         "parent": "1983"
     },
     {
         "id": "388",
-        "name": "Ulvibacter sp. LPB0005 (Strain: LPB0005)",
+        "name": "Ulvibacter sp.",
         "parent": "1982"
     },
     {
         "id": "392",
-        "name": "Lautropia mirabilis ATCC 51599 (Strain: ATCC 51599)",
+        "name": "Lautropia mirabilis",
         "parent": "1983"
     },
     {
         "id": "396",
-        "name": "Sphingorhabdus wooponensis (Strain: 03SU3-P)",
+        "name": "Sphingorhabdus wooponensis",
         "parent": "1983"
     },
     {
         "id": "400",
-        "name": "Streptomyces sp. SolWspMP-5a-2 (Strain: SolWspMP-5a-2)",
+        "name": "Streptomyces sp.",
         "parent": "1983"
     },
     {
         "id": "404",
-        "name": "Histophilus somni (strain 2336) (Haemophilus somnus) (Strain: 2336)",
+        "name": "Histophilus somni",
         "parent": "1983"
     },
     {
         "id": "408",
-        "name": "Mangrovibacter sp. MFB070 (Strain: MFB070)",
+        "name": "Mangrovibacter sp.",
         "parent": "1668"
     },
     {
         "id": "412",
-        "name": "Brevibacterium ravenspurgense (Strain: CCUG56047)",
+        "name": "Brevibacterium ravenspurgense",
         "parent": "1981"
     },
     {
         "id": "416",
-        "name": "Pseudonocardia oroxyli (Strain: CGMCC 4.3143)",
+        "name": "Pseudonocardia oroxyli",
         "parent": "1981"
     },
     {
         "id": "420",
-        "name": "Tenacibaculum jejuense (Strain: type strain: KCTC 22618)",
+        "name": "Tenacibaculum jejuense",
         "parent": "1358"
     },
     {
         "id": "424",
-        "name": "Azotobacter chroococcum NCIMB 8003 (Strain: NCIMB 8003)",
+        "name": "Azotobacter chroococcum",
         "parent": "1984"
     },
     {
         "id": "428",
-        "name": "Bifidobacterium animalis subsp. lactis (strain AD011) (Strain: AD011)",
+        "name": "Bifidobacterium animalis",
         "parent": "1983"
     },
     {
         "id": "432",
-        "name": "Sphingomonas guangdongensis (Strain: CGMCC 1.12672)",
+        "name": "Sphingomonas guangdongensis",
         "parent": "1983"
     },
     {
         "id": "436",
-        "name": "Actinomyces denticolens (Strain: PA)",
+        "name": "Actinomyces denticolens",
         "parent": "1983"
     },
     {
         "id": "440",
-        "name": "Geobacter sp. DSM 2909 (Strain: DSM 2909)",
+        "name": "Geobacter sp.",
         "parent": "1983"
     },
     {
         "id": "444",
-        "name": "Lactobacillus brevis subsp. gravesensis ATCC 27305 (Strain: ATCC 27305)",
+        "name": "Lactobacillus brevis",
         "parent": "1983"
     },
     {
         "id": "448",
-        "name": "Streptomyces zinciresistens K42 (Strain: K42)",
+        "name": "Streptomyces zinciresistens",
         "parent": "1983"
     },
     {
         "id": "452",
-        "name": "Sphingopyxis macrogoltabida (Sphingomonas macrogoltabidus) (Strain: EY-1)",
+        "name": "Sphingopyxis macrogoltabida",
         "parent": "1981"
     },
     {
         "id": "456",
-        "name": "Mogibacterium sp. CM50 (Strain: CM50)",
+        "name": "Mogibacterium sp.",
         "parent": "1981"
     },
     {
         "id": "460",
-        "name": "Mycoplasma canis UFG4 (Strain: UFG4)",
+        "name": "Mycoplasma canis",
         "parent": "1983"
     },
     {
         "id": "464",
-        "name": "Lactobacillus diolivorans DSM 14421 (Strain: DSM 14421)",
+        "name": "Lactobacillus diolivorans",
         "parent": "1983"
     },
     {
         "id": "468",
-        "name": "Bacillus sp. FJAT-26390 (Strain: FJAT-26390)",
+        "name": "Bacillus sp.",
         "parent": "1983"
     },
     {
         "id": "472",
-        "name": "Flagellimonas maritima (Strain: HME9304)",
+        "name": "Flagellimonas maritima",
         "parent": "1358"
     },
     {
         "id": "476",
-        "name": "Pseudarthrobacter sp. T11b",
+        "name": "Pseudarthrobacter sp.",
         "parent": "1982"
     },
     {
         "id": "480",
-        "name": "Oscillibacter sp. KLE 1745 (Strain: KLE 1745)",
+        "name": "Oscillibacter sp.",
         "parent": "1984"
     },
     {
         "id": "484",
-        "name": "Treponema pedis str. T A4 (Strain: T A4)",
+        "name": "Treponema pedis",
         "parent": "1983"
     },
     {
         "id": "488",
-        "name": "Nitrincola nitratireducens (Strain: AK23)",
+        "name": "Nitrincola nitratireducens",
         "parent": "1980"
     },
     {
         "id": "492",
-        "name": "Candidatus Jettenia caeni",
+        "name": "Candidatus Jettenia",
         "parent": "1980"
     },
     {
         "id": "496",
-        "name": "Blastococcus saxobsidens (Strain: DSM 44509)",
+        "name": "Blastococcus saxobsidens",
         "parent": "1983"
     },
     {
         "id": "500",
-        "name": "Nostoc sp. (strain ATCC 29411 / PCC 7524) (Strain: ATCC 29411 / PCC 7524)",
+        "name": "Nostoc sp.",
         "parent": "1981"
     },
     {
         "id": "504",
-        "name": "Cetobacterium somerae ATCC BAA-474 (Strain: ATCC BAA-474)",
+        "name": "Cetobacterium somerae",
         "parent": "1981"
     },
     {
         "id": "508",
-        "name": "Actinomyces massiliensis F0489 (Strain: F0489)",
+        "name": "Actinomyces massiliensis",
         "parent": "1983"
     },
     {
         "id": "512",
-        "name": "Clostridiaceae bacterium 14S0207 (Strain: 14S0207)",
+        "name": "Clostridiaceae bacterium",
         "parent": "1982"
     },
     {
         "id": "516",
-        "name": "Aggregatibacter segnis ATCC 33393 (Strain: ATCC 33393)",
+        "name": "Aggregatibacter segnis",
         "parent": "1981"
     },
     {
         "id": "520",
-        "name": "Calderihabitans maritimus (Strain: KKC1)",
+        "name": "Calderihabitans maritimus",
         "parent": "1983"
     },
     {
         "id": "524",
-        "name": "Clostridium bornimense (Strain: M2/40)",
+        "name": "Clostridium bornimense",
         "parent": "1358"
     },
     {
         "id": "528",
-        "name": "Chitinophaga niabensis (Strain: DSM 24787)",
+        "name": "Chitinophaga niabensis",
         "parent": "1981"
     },
     {
         "id": "532",
-        "name": "Ruminococcaceae bacterium AM28-23LB (Strain: AM28-23LB)",
+        "name": "Ruminococcaceae bacterium",
         "parent": "1984"
     },
     {
         "id": "536",
-        "name": "Corynebacterium choanis (Strain: 200CH)",
+        "name": "Corynebacterium choanis",
         "parent": "1984"
     },
     {
         "id": "540",
-        "name": "Polymorphum gilvum (strain LMG 25793 / CGMCC 1.9160 / SL003B-26A1) (Strain: LMG 25793 / CGMCC 1.9160 / SL003B-26A1)",
+        "name": "Polymorphum gilvum",
         "parent": "1981"
     },
     {
         "id": "544",
-        "name": "Pseudomonas cremoricolorata (Strain: ND07)",
+        "name": "Pseudomonas cremoricolorata",
         "parent": "1983"
     },
     {
         "id": "548",
-        "name": "Mycobacterium sp. YC-RL4 (Strain: YC-RL4)",
+        "name": "Mycobacterium sp.",
         "parent": "1983"
     },
     {
         "id": "552",
-        "name": "Planctomyces sp. SH-PL62 (Strain: SH-PL62)",
+        "name": "Planctomyces sp.",
         "parent": "1983"
     },
     {
         "id": "556",
-        "name": "Yangia sp. CCB-MM3 (Strain: CCB-MM3)",
+        "name": "Yangia sp.",
         "parent": "1983"
     },
     {
         "id": "560",
-        "name": "Treponema lecithinolyticum ATCC 700332 (Strain: ATCC 700332)",
+        "name": "Treponema lecithinolyticum",
         "parent": "1981"
     },
     {
         "id": "564",
-        "name": "Lactobacillus saerimneri 30a (Strain: 30a)",
+        "name": "Lactobacillus saerimneri",
         "parent": "1981"
     },
     {
         "id": "568",
-        "name": "Cereibacter changlensis JA139 (Strain: JA139)",
+        "name": "Cereibacter changlensis",
         "parent": "1983"
     },
     {
         "id": "572",
-        "name": "Oceanihabitans sediminis (Strain: S9-10)",
+        "name": "Oceanihabitans sediminis",
         "parent": "1957"
     },
     {
         "id": "576",
-        "name": "Propionibacterium freudenreichii subsp. shermanii (strain ATCC 9614 / DSM 4902 / CIP 103027 / NCIMB 8099 / CIRM-BIA1) (Strain: ATCC 9614 / DSM 4902 / CIP 103027 / NCIMB 8099 / CIRM-BIA1)",
+        "name": "Propionibacterium freudenreichii",
         "parent": "1981"
     },
     {
         "id": "580",
-        "name": "bacterium RmlP001 (Strain: RmlP001)",
+        "name": "bacterium RmlP001",
         "parent": "1981"
     },
     {
         "id": "584",
-        "name": "Palleronia marisminoris (Strain: CECT 7066)",
+        "name": "Palleronia marisminoris",
         "parent": "1868"
     },
     {
         "id": "588",
-        "name": "Opitutaceae bacterium TSB47 (Strain: TSB47)",
+        "name": "Opitutaceae bacterium",
         "parent": "1982"
     },
     {
         "id": "592",
-        "name": "Thermolongibacillus altinsuensis (Strain: DSM 24979)",
+        "name": "Thermolongibacillus altinsuensis",
         "parent": "1983"
     },
     {
         "id": "596",
-        "name": "Thauera linaloolentis 47Lol = DSM 12138 (Strain: 47Lol / DSM 12138)",
+        "name": "Thauera linaloolentis",
         "parent": "1983"
     },
     {
         "id": "600",
-        "name": "Duganella sp. Root198D2 (Strain: Root198D2)",
+        "name": "Duganella sp.",
         "parent": "1753"
     },
     {
         "id": "604",
-        "name": "Burkholderia sp. Ch1-1 (Strain: Ch1-1)",
+        "name": "Burkholderia sp.",
         "parent": "1984"
     },
     {
         "id": "608",
-        "name": " DSM 9560)",
+        "name": " DSM",
         "parent": "1980"
     },
     {
         "id": "612",
-        "name": "Mesorhizobium sp. Root554 (Strain: Root554)",
+        "name": "Mesorhizobium sp.",
         "parent": "1983"
     },
     {
         "id": "616",
-        "name": "Amycolatopsis saalfeldensis (Strain: DSM 44993)",
+        "name": "Amycolatopsis saalfeldensis",
         "parent": "1983"
     },
     {
         "id": "620",
-        "name": "Methylophaga thiooxydans DMS010 (Strain: DMS010)",
+        "name": "Methylophaga thiooxydans",
         "parent": "1981"
     },
     {
         "id": "624",
-        "name": "Lysobacter spongiicola DSM 21749 (Strain: DSM 21749)",
+        "name": "Lysobacter spongiicola",
         "parent": "1983"
     },
     {
         "id": "628",
-        "name": "Mobiluncus mulieris ATCC 35239 (Strain: ATCC 35239)",
+        "name": "Mobiluncus mulieris",
         "parent": "1983"
     },
     {
         "id": "632",
-        "name": "Pseudonocardia sediminis (Strain: DSM 45779)",
+        "name": "Pseudonocardia sediminis",
         "parent": "1983"
     },
     {
         "id": "636",
-        "name": "Sinobaca qinghaiensis (Strain: DSM 17008)",
+        "name": "Sinobaca qinghaiensis",
         "parent": "1983"
     },
     {
         "id": "640",
-        "name": "Microbacterium sp. cf046 (Strain: CF046)",
+        "name": "Microbacterium sp.",
         "parent": "1983"
     },
     {
         "id": "644",
-        "name": "Leifsonia sp. Root227 (Strain: Root227)",
+        "name": "Leifsonia sp.",
         "parent": "1984"
     },
     {
         "id": "648",
-        "name": "Erwinia tasmaniensis (strain DSM 17950 / CIP 109463 / Et1/99) (Strain: DSM 17950 / CIP 109463 / Et1/99)",
+        "name": "Erwinia tasmaniensis",
         "parent": "1984"
     },
     {
         "id": "652",
-        "name": "Clostridium sp. CT7 (Strain: CT7)",
+        "name": "Clostridium sp.",
         "parent": "1984"
     },
     {
         "id": "656",
-        "name": "Deinococcus marmoris (Strain: KOPRI26562)",
+        "name": "Deinococcus marmoris",
         "parent": "1984"
     },
     {
         "id": "660",
-        "name": "Massilia sp. Root351 (Strain: Root351)",
+        "name": "Massilia sp.",
         "parent": "1983"
     },
     {
         "id": "664",
-        "name": "Ornithinimicrobium pekingense (Strain: USBA17B2)",
+        "name": "Ornithinimicrobium pekingense",
         "parent": "1981"
     },
     {
         "id": "668",
-        "name": "Lactobacillus senioris DSM 24302 = JCM 17472 (Strain: DSM 24302)",
+        "name": "Lactobacillus senioris",
         "parent": "1983"
     },
     {
         "id": "672",
-        "name": "Flavobacteria bacterium (strain BBFL7) (Strain: BBFL7)",
+        "name": "Flavobacteria bacterium",
         "parent": "1981"
     },
     {
         "id": "676",
-        "name": "Enterococcus casseliflavus EC20 (Strain: EC20)",
+        "name": "Enterococcus casseliflavus",
         "parent": "1983"
     },
     {
         "id": "680",
-        "name": "Clostridium sp. CAG:127 (Strain: MGS:127)",
+        "name": "Clostridium sp.",
         "parent": "1983"
     },
     {
         "id": "684",
-        "name": "Mycoplasma mycoides subsp. capri str. GM12 (Strain: GM12 clone deltatypeIIIres)",
+        "name": "Mycoplasma mycoides",
         "parent": "1983"
     },
     {
         "id": "688",
-        "name": "Megasphaera paucivorans (Strain: DSM 16981)",
+        "name": "Megasphaera paucivorans",
         "parent": "1983"
     },
     {
         "id": "692",
-        "name": "Shigella dysenteriae serotype 1 (strain Sd197) (Strain: Sd197)",
+        "name": "Shigella dysenteriae",
         "parent": "1980"
     },
     {
         "id": "696",
-        "name": "Chitinophaga parva (Strain: LY-1)",
+        "name": "Chitinophaga parva",
         "parent": "1983"
     },
     {
         "id": "700",
-        "name": "Bordetella sp. 3d-2-2 (Strain: 3d-2-2)",
+        "name": "Bordetella sp.",
         "parent": "1983"
     },
     {
         "id": "704",
-        "name": "endosymbiont of unidentified scaly snail isolate Monju",
+        "name": "endosymbiont of",
         "parent": "1868"
     },
     {
         "id": "708",
-        "name": "Streptomyces sp. 69 (Strain: 69)",
+        "name": "Streptomyces sp.",
         "parent": "1980"
     },
     {
         "id": "712",
-        "name": "Edwardsiella tarda (Strain: FDAARGOS_370)",
+        "name": "Edwardsiella tarda",
         "parent": "1983"
     },
     {
         "id": "716",
-        "name": "Orenia marismortui (Strain: MSL 6dP)",
+        "name": "Orenia marismortui",
         "parent": "1984"
     },
     {
         "id": "720",
-        "name": "Alistipes timonensis JC136 (Strain: DSM 25383)",
+        "name": "Alistipes timonensis",
         "parent": "1964"
     },
     {
         "id": "724",
-        "name": "Weissella oryzae (strain DSM 25784 / JCM 18191 / SG25) (Strain: DSM 25784 / JCM 18191 / SG25)",
+        "name": "Weissella oryzae",
         "parent": "1981"
     },
     {
         "id": "728",
-        "name": "Blattabacterium sp. subsp. Periplaneta americana (strain BPLAN) (Periplaneta americana symbiotic bacterium) (Strain: BPLAN)",
+        "name": "Blattabacterium sp.",
         "parent": "1980"
     },
     {
         "id": "732",
-        "name": "Coxiella burnetii (strain RSA 493 / Nine Mile phase I) (Strain: RSA 493 / Nine Mile phase I)",
+        "name": "Coxiella burnetii",
         "parent": "1981"
     },
     {
         "id": "736",
-        "name": "[Clostridium] bolteae 90A9 (Strain: 90A9)",
+        "name": "[Clostridium] bolteae",
         "parent": "1981"
     },
     {
         "id": "740",
-        "name": "Clostridium luticellarii (Strain: DSM 29923)",
+        "name": "Clostridium luticellarii",
         "parent": "1983"
     },
     {
         "id": "744",
-        "name": "Novosphingobium sp. MD-1 (Strain: MD-1)",
+        "name": "Novosphingobium sp.",
         "parent": "1981"
     },
     {
         "id": "748",
-        "name": "Vibrio tapetis subsp. tapetis",
+        "name": "Vibrio tapetis",
         "parent": "1983"
     },
     {
         "id": "752",
-        "name": "Lachnospiraceae bacterium TWA4 (Strain: TWA4)",
+        "name": "Lachnospiraceae bacterium",
         "parent": "1981"
     },
     {
         "id": "756",
-        "name": "Mycobacterium montefiorense (Strain: BS)",
+        "name": "Mycobacterium montefiorense",
         "parent": "1980"
     },
     {
@@ -956,297 +956,297 @@
     },
     {
         "id": "764",
-        "name": "Pseudoramibacter alactolyticus ATCC 23263 (Strain: ATCC 23263)",
+        "name": "Pseudoramibacter alactolyticus",
         "parent": "1984"
     },
     {
         "id": "768",
-        "name": "Frankia symbiont subsp. Datisca glomerata (Strain: 4085684)",
+        "name": "Frankia symbiont",
         "parent": "1980"
     },
     {
         "id": "772",
-        "name": "Corynebacterium vitaeruminis DSM 20294 (Strain: ATCC 10234)",
+        "name": "Corynebacterium vitaeruminis",
         "parent": "1984"
     },
     {
         "id": "776",
-        "name": "Psychroflexus torquis (strain ATCC 700755 / ACAM 623) (Strain: ATCC 700755 / ACAM 623)",
+        "name": "Psychroflexus torquis",
         "parent": "1983"
     },
     {
         "id": "780",
-        "name": "Azoarcus indigens (Strain: DSM 12121)",
+        "name": "Azoarcus indigens",
         "parent": "1981"
     },
     {
         "id": "784",
-        "name": "Firmicutes bacterium CAG:466 (Strain: MGS:466)",
+        "name": "Firmicutes bacterium",
         "parent": "1983"
     },
     {
         "id": "788",
-        "name": "Natronincola ferrireducens (Strain: DSM 18346)",
+        "name": "Natronincola ferrireducens",
         "parent": "1983"
     },
     {
         "id": "792",
-        "name": "Mangrovimonas sp. DI 80 (Strain: DI 80)",
+        "name": "Mangrovimonas sp.",
         "parent": "1983"
     },
     {
         "id": "796",
-        "name": "Ruminococcus sp. CAG:330 (Strain: MGS:330)",
+        "name": "Ruminococcus sp.",
         "parent": "1983"
     },
     {
         "id": "800",
-        "name": "Prevotella sp. CAG:485 (Strain: MGS:485)",
+        "name": "Prevotella sp.",
         "parent": "1983"
     },
     {
         "id": "804",
-        "name": "Promicromonospora thailandica (Strain: SAI-039)",
+        "name": "Promicromonospora thailandica",
         "parent": "1982"
     },
     {
         "id": "808",
-        "name": "Flavobacteriales bacterium ALC-1 (Strain: ALC-1)",
+        "name": "Flavobacteriales bacterium",
         "parent": "1980"
     },
     {
         "id": "812",
-        "name": "Bacillus sp. T33-2 (Strain: T33-2)",
+        "name": "Bacillus sp.",
         "parent": "1984"
     },
     {
         "id": "816",
-        "name": "Alteromonas pelagimontana (Strain: 5.12)",
+        "name": "Alteromonas pelagimontana",
         "parent": "1981"
     },
     {
         "id": "820",
-        "name": "Virgibacillus massiliensis (Strain: Vm-5)",
+        "name": "Virgibacillus massiliensis",
         "parent": "1957"
     },
     {
         "id": "824",
-        "name": "Aureimonas sp. Leaf324 (Strain: Leaf324)",
+        "name": "Aureimonas sp.",
         "parent": "1983"
     },
     {
         "id": "828",
-        "name": "Novosphingobium sp. GV010 (Strain: GV010)",
+        "name": "Novosphingobium sp.",
         "parent": "1983"
     },
     {
         "id": "832",
-        "name": "Alteromonas confluentis (Strain: KCTC 42603)",
+        "name": "Alteromonas confluentis",
         "parent": "1981"
     },
     {
         "id": "836",
-        "name": "Kribbella sp. VKM Ac-2575 (Strain: VKM Ac-2575)",
+        "name": "Kribbella sp.",
         "parent": "1358"
     },
     {
         "id": "840",
-        "name": "Nocardia sp. NEAU-LL90 (Strain: NEAU-LL90)",
+        "name": "Nocardia sp.",
         "parent": "1983"
     },
     {
         "id": "844",
-        "name": "Microvirga sp. BSC39 (Strain: BSC39)",
+        "name": "Microvirga sp.",
         "parent": "1983"
     },
     {
         "id": "848",
-        "name": "Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576) (Strain: PCC 7120 / SAG 25.82 / UTEX 2576)",
+        "name": "Nostoc sp.",
         "parent": "1983"
     },
     {
         "id": "852",
-        "name": "Pseudomonas taeanensis MS-3 (Strain: MS-3)",
+        "name": "Pseudomonas taeanensis",
         "parent": "1358"
     },
     {
         "id": "856",
-        "name": "Marinomonas posidonica (strain CECT 7376 / NCIMB 14433 / IVIA-Po-181) (Strain: CECT 7376 / NCIMB 14433 / IVIA-Po-181)",
+        "name": "Marinomonas posidonica",
         "parent": "1983"
     },
     {
         "id": "860",
-        "name": "Lactobacillus brantae DSM 23927 (Strain: DSM 23927)",
+        "name": "Lactobacillus brantae",
         "parent": "1981"
     },
     {
         "id": "864",
-        "name": "Salsuginibacillus halophilus (Strain: CGMCC 1.07653)",
+        "name": "Salsuginibacillus halophilus",
         "parent": "1821"
     },
     {
         "id": "868",
-        "name": "Vagococcus sp. MN-17 (Strain: MN-17)",
+        "name": "Vagococcus sp.",
         "parent": "1983"
     },
     {
         "id": "872",
-        "name": "Otariodibacter oris (Strain: DSM 23800)",
+        "name": "Otariodibacter oris",
         "parent": "1618"
     },
     {
         "id": "876",
-        "name": "Marmoricola pocheonensis (Strain: Gsoil 818)",
+        "name": "Marmoricola pocheonensis",
         "parent": "1983"
     },
     {
         "id": "880",
-        "name": "Wenxinia marina DSM 24838 (Strain: DSM 24838)",
+        "name": "Wenxinia marina",
         "parent": "1983"
     },
     {
         "id": "884",
-        "name": "Pseudomonas syringae pv. tomato (strain ATCC BAA-871 / DC3000) (Strain: ATCC BAA-871 / DC3000)",
+        "name": "Pseudomonas syringae",
         "parent": "1983"
     },
     {
         "id": "888",
-        "name": "Chitinophagaceae bacterium BSSC1",
+        "name": "Chitinophagaceae bacterium",
         "parent": "1983"
     },
     {
         "id": "892",
-        "name": "Amylibacter kogurei (Strain: 4G11)",
+        "name": "Amylibacter kogurei",
         "parent": "1983"
     },
     {
         "id": "896",
-        "name": "Oceanisphaera avium (Strain: AMac2203)",
+        "name": "Oceanisphaera avium",
         "parent": "1984"
     },
     {
         "id": "900",
-        "name": "Acidithiobacillus sp. CJ-2 (Strain: CJ-2)",
+        "name": "Acidithiobacillus sp.",
         "parent": "1983"
     },
     {
         "id": "904",
-        "name": "Lachnospiraceae bacterium 28-4 (Strain: 28-4)",
+        "name": "Lachnospiraceae bacterium",
         "parent": "1984"
     },
     {
         "id": "908",
-        "name": "Spiroplasma eriocheiris (Strain: TDA-040725-5)",
+        "name": "Spiroplasma eriocheiris",
         "parent": "1983"
     },
     {
         "id": "912",
-        "name": "Cephaloticoccus capnophilus (Strain: CV41)",
+        "name": "Cephaloticoccus capnophilus",
         "parent": "1983"
     },
     {
         "id": "916",
-        "name": "Spiroplasma clarkii (Strain: CN-5)",
+        "name": "Spiroplasma clarkii",
         "parent": "1983"
     },
     {
         "id": "920",
-        "name": "Burkholderiales bacterium CNM695-12 (Strain: CNM695-12)",
+        "name": "Burkholderiales bacterium",
         "parent": "1980"
     },
     {
         "id": "924",
-        "name": "Nitrincola lacisaponensis (Strain: 4CA)",
+        "name": "Nitrincola lacisaponensis",
         "parent": "1983"
     },
     {
         "id": "928",
-        "name": "Taibaiella chishuiensis (Strain: CGMCC 1.12700)",
+        "name": "Taibaiella chishuiensis",
         "parent": "1981"
     },
     {
         "id": "932",
-        "name": "Ruegeria litorea R37 (Strain: CECT 7639)",
+        "name": "Ruegeria litorea",
         "parent": "1983"
     },
     {
         "id": "936",
-        "name": "Xylophilus sp. Leaf220 (Strain: Leaf220)",
+        "name": "Xylophilus sp.",
         "parent": "1983"
     },
     {
         "id": "940",
-        "name": "Pseudobacter ginsenosidimutans (Strain: DSM 18116)",
+        "name": "Pseudobacter ginsenosidimutans",
         "parent": "1983"
     },
     {
         "id": "944",
-        "name": "Sphingopyxis sp. GW247-27LB (Strain: GW247-27LB)",
+        "name": "Sphingopyxis sp.",
         "parent": "1984"
     },
     {
         "id": "948",
-        "name": "Caloramator fervidus (Strain: DSM 5463)",
+        "name": "Caloramator fervidus",
         "parent": "1983"
     },
     {
         "id": "952",
-        "name": "Actinobaculum suis (Strain: DSM 20639)",
+        "name": "Actinobaculum suis",
         "parent": "1980"
     },
     {
         "id": "956",
-        "name": "Bifidobacterium indicum LMG 11587 = DSM 20214 (Strain: LMG 11587)",
+        "name": "Bifidobacterium indicum",
         "parent": "1983"
     },
     {
         "id": "960",
-        "name": "Garciella nitratireducens DSM 15102 (Strain: DSM 15102)",
+        "name": "Garciella nitratireducens",
         "parent": "1981"
     },
     {
         "id": "964",
-        "name": "Streptococcus pneumoniae (strain ATCC BAA-255 / R6) (Strain: ATCC BAA-255 / R6)",
+        "name": "Streptococcus pneumoniae",
         "parent": "1983"
     },
     {
         "id": "968",
-        "name": "Azospirillum sp. L-25-5w-1 (Strain: L-25-5w-1)",
+        "name": "Azospirillum sp.",
         "parent": "1981"
     },
     {
         "id": "972",
-        "name": "Bosea sp. RCAM04685 (Strain: RCAM04685)",
+        "name": "Bosea sp.",
         "parent": "1983"
     },
     {
         "id": "976",
-        "name": "Dactylococcopsis salina PCC 8305 (Strain: PCC 8305)",
+        "name": "Dactylococcopsis salina",
         "parent": "1983"
     },
     {
         "id": "980",
-        "name": "Spirosoma endophyticum (Strain: DSM 26130)",
+        "name": "Spirosoma endophyticum",
         "parent": "1983"
     },
     {
         "id": "984",
-        "name": "Lactobacillus apis (Strain: Hma11)",
+        "name": "Lactobacillus apis",
         "parent": "1983"
     },
     {
         "id": "988",
-        "name": "Marinobacter sp. ANT_B65 (Strain: ANT_B65)",
+        "name": "Marinobacter sp.",
         "parent": "1981"
     },
     {
         "id": "992",
-        "name": "Cytophagaceae bacterium FSY-15 (Strain: FSY-15)",
+        "name": "Cytophagaceae bacterium",
         "parent": "1868"
     },
     {
         "id": "996",
-        "name": "Anaeroglobus geminatus F0357 (Strain: F0357)",
+        "name": "Anaeroglobus geminatus",
         "parent": "1983"
     },
     {
