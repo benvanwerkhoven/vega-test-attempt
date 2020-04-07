@@ -4994,24 +4994,9 @@
         "name": ""
     },
     {
-        "id": "881",
-        "name": "Absiella dolichum",
-        "parent": "1564"
-    },
-    {
         "id": "740",
         "name": "Acaryochloris marina",
         "parent": "1579"
-    },
-    {
-        "id": "277",
-        "name": "Accumulibacter phosphatis",
-        "parent": "1365"
-    },
-    {
-        "id": "119",
-        "name": "Acetoanaerobium sticklandii",
-        "parent": "1673"
     },
     {
         "id": "670",
@@ -5022,16 +5007,6 @@
         "id": "154",
         "name": "Acetobacteraceae bacterium",
         "parent": "1144"
-    },
-    {
-        "id": "393",
-        "name": "Acetobacterium woodii",
-        "parent": "1497"
-    },
-    {
-        "id": "917",
-        "name": "Acetohalobium arabaticum",
-        "parent": "1709"
     },
     {
         "id": "874",
@@ -5049,24 +5024,9 @@
         "parent": "1106"
     },
     {
-        "id": "167",
-        "name": "Acidaminococcus fermentans",
-        "parent": "1162"
-    },
-    {
         "id": "54",
         "name": "Acidaminococcus intestini",
         "parent": "1162"
-    },
-    {
-        "id": "185",
-        "name": "Acidimicrobium ferrooxidans",
-        "parent": "1857"
-    },
-    {
-        "id": "963",
-        "name": "Acidiphilium cryptum",
-        "parent": "1421"
     },
     {
         "id": "938",
@@ -5074,39 +5034,14 @@
         "parent": "1481"
     },
     {
-        "id": "1",
-        "name": "Acidithiobacillus caldus",
-        "parent": "1753"
-    },
-    {
         "id": "600",
         "name": "Acidithiobacillus ferrooxidans",
         "parent": "1006"
     },
     {
-        "id": "949",
-        "name": "Acidithiobacillus sp.",
-        "parent": "1006"
-    },
-    {
-        "id": "403",
-        "name": "Acidobacterium capsulatum",
-        "parent": "1549"
-    },
-    {
         "id": "118",
         "name": "Acidocella sp.",
         "parent": "1421"
-    },
-    {
-        "id": "673",
-        "name": "Acidovorax citrulli",
-        "parent": "1122"
-    },
-    {
-        "id": "263",
-        "name": "Acidovorax delafieldii",
-        "parent": "1055"
     },
     {
         "id": "316",
@@ -5139,19 +5074,9 @@
         "parent": "1049"
     },
     {
-        "id": "597",
-        "name": "Actinomyces neuii",
-        "parent": "1555"
-    },
-    {
         "id": "204",
         "name": "Actinomyces sp.",
         "parent": "1049"
-    },
-    {
-        "id": "309",
-        "name": "Actinomyces sp.",
-        "parent": "1070"
     },
     {
         "id": "418",
@@ -5159,49 +5084,14 @@
         "parent": "1175"
     },
     {
-        "id": "613",
-        "name": "Actinomyces sp.",
-        "parent": "1070"
-    },
-    {
         "id": "710",
         "name": "Actinomyces sp.",
         "parent": "1495"
     },
     {
-        "id": "969",
-        "name": "Actinomyces urogenitalis",
-        "parent": "1186"
-    },
-    {
-        "id": "797",
-        "name": "Actinoplanes sp.",
-        "parent": "1428"
-    },
-    {
-        "id": "863",
-        "name": "Actinosynnema mirum",
-        "parent": "1198"
-    },
-    {
-        "id": "129",
-        "name": "Aequorivita sublithincola",
-        "parent": "1245"
-    },
-    {
         "id": "602",
         "name": "Aerococcus viridans",
         "parent": "1622"
-    },
-    {
-        "id": "983",
-        "name": "Aeromicrobium marinum",
-        "parent": "1494"
-    },
-    {
-        "id": "525",
-        "name": "Aeromonas hydrophila",
-        "parent": "1367"
     },
     {
         "id": "348",
@@ -5224,19 +5114,9 @@
         "parent": "1250"
     },
     {
-        "id": "461",
-        "name": "Ahrensia sp.",
-        "parent": "1558"
-    },
-    {
         "id": "222",
         "name": "Akkermansia muciniphila",
         "parent": "1848"
-    },
-    {
-        "id": "267",
-        "name": "Alcanivorax dieselolei",
-        "parent": "1306"
     },
     {
         "id": "296",
@@ -5249,29 +5129,9 @@
         "parent": "1300"
     },
     {
-        "id": "855",
-        "name": "Alicyclobacillus acidocaldarius",
-        "parent": "1646"
-    },
-    {
         "id": "36",
         "name": "Aliiglaciecola lipolytica",
         "parent": "1313"
-    },
-    {
-        "id": "273",
-        "name": "Aliivibrio fischeri",
-        "parent": "1261"
-    },
-    {
-        "id": "237",
-        "name": "Alistipes indistinctus",
-        "parent": "1652"
-    },
-    {
-        "id": "253",
-        "name": "Alkalilimnicola ehrlichii",
-        "parent": "1402"
     },
     {
         "id": "912",
@@ -5294,26 +5154,6 @@
         "parent": "1654"
     },
     {
-        "id": "143",
-        "name": "Aminobacterium colombiense",
-        "parent": "1529"
-    },
-    {
-        "id": "9",
-        "name": "Aminomonas paucivorans",
-        "parent": "1325"
-    },
-    {
-        "id": "557",
-        "name": "Ammonifex degensii",
-        "parent": "1674"
-    },
-    {
-        "id": "779",
-        "name": "Amoebophilus asiaticus",
-        "parent": "1867"
-    },
-    {
         "id": "868",
         "name": "Amphibacillus xylanus",
         "parent": "1559"
@@ -5322,11 +5162,6 @@
         "id": "708",
         "name": "Amycolatopsis mediterranei",
         "parent": "1150"
-    },
-    {
-        "id": "723",
-        "name": "Anaerococcus lactolyticus",
-        "parent": "1231"
     },
     {
         "id": "340",
@@ -5339,11 +5174,6 @@
         "parent": "1296"
     },
     {
-        "id": "469",
-        "name": "Anaerofustis stercorihominis",
-        "parent": "1798"
-    },
-    {
         "id": "924",
         "name": "Anaeroglobus geminatus",
         "parent": "1044"
@@ -5352,16 +5182,6 @@
         "id": "624",
         "name": "Anaeromyxobacter dehalogenans",
         "parent": "1118"
-    },
-    {
-        "id": "371",
-        "name": "Anaeromyxobacter sp.",
-        "parent": "1118"
-    },
-    {
-        "id": "871",
-        "name": "Anaerotruncus colihominis",
-        "parent": "1651"
     },
     {
         "id": "698",
@@ -5374,28 +5194,8 @@
         "parent": "1302"
     },
     {
-        "id": "517",
-        "name": "Anoxybacillus flavithermus",
-        "parent": "1169"
-    },
-    {
-        "id": "71",
-        "name": "Aquifex aeolicus",
-        "parent": "1333"
-    },
-    {
-        "id": "21",
-        "name": "Arcanobacterium haemolyticum",
-        "parent": "1495"
-    },
-    {
         "id": "520",
         "name": "Arcobacter butzleri",
-        "parent": "1266"
-    },
-    {
-        "id": "177",
-        "name": "Arcobacter nitrofigilis",
         "parent": "1266"
     },
     {
@@ -5414,16 +5214,6 @@
         "parent": "1027"
     },
     {
-        "id": "641",
-        "name": "Arthromitus sp.",
-        "parent": "1886"
-    },
-    {
-        "id": "61",
-        "name": "Arthrospira platensis",
-        "parent": "1316"
-    },
-    {
         "id": "312",
         "name": "Asticcacaulis biprosthecum",
         "parent": "1293"
@@ -5439,11 +5229,6 @@
         "parent": "1466"
     },
     {
-        "id": "311",
-        "name": "Atopobium parvulum",
-        "parent": "1373"
-    },
-    {
         "id": "4",
         "name": "Aurantimonas manganoxydans",
         "parent": "1217"
@@ -5452,11 +5237,6 @@
         "id": "74",
         "name": "Azoarcus sp.",
         "parent": "1172"
-    },
-    {
-        "id": "603",
-        "name": "Azoarcus sp.",
-        "parent": "1167"
     },
     {
         "id": "240",
@@ -5494,19 +5274,9 @@
         "parent": "1008"
     },
     {
-        "id": "825",
-        "name": "Bacillus azotoformans",
-        "parent": "1423"
-    },
-    {
         "id": "132",
         "name": "Bacillus bataviensis",
         "parent": "1423"
-    },
-    {
-        "id": "655",
-        "name": "Bacillus cellulosilyticus",
-        "parent": "1412"
     },
     {
         "id": "730",
@@ -5514,19 +5284,9 @@
         "parent": "1008"
     },
     {
-        "id": "803",
-        "name": "Bacillus clausii",
-        "parent": "1419"
-    },
-    {
         "id": "328",
         "name": "Bacillus halodurans",
         "parent": "1321"
-    },
-    {
-        "id": "481",
-        "name": "Bacillus licheniformis",
-        "parent": "1102"
     },
     {
         "id": "534",
@@ -5549,44 +5309,9 @@
         "parent": "1412"
     },
     {
-        "id": "781",
-        "name": "Bacillus sp.",
-        "parent": "1493"
-    },
-    {
-        "id": "31",
-        "name": "Bacillus subtilis",
-        "parent": "1102"
-    },
-    {
-        "id": "231",
-        "name": "Bacteroides fluxus",
-        "parent": "1194"
-    },
-    {
-        "id": "905",
-        "name": "Bacteroides fragilis",
-        "parent": "1105"
-    },
-    {
-        "id": "75",
-        "name": "Bacteroides nordii",
-        "parent": "1105"
-    },
-    {
-        "id": "841",
-        "name": "Bacteroides thetaiotaomicron",
-        "parent": "1135"
-    },
-    {
         "id": "674",
         "name": "Bacteroides vulgatus",
         "parent": "1286"
-    },
-    {
-        "id": "789",
-        "name": "Bacteroidetes oral",
-        "parent": "1680"
     },
     {
         "id": "166",
@@ -5604,41 +5329,6 @@
         "parent": "1679"
     },
     {
-        "id": "335",
-        "name": "Beijerinckia indica",
-        "parent": "1338"
-    },
-    {
-        "id": "467",
-        "name": "Belliella baltica",
-        "parent": "1159"
-    },
-    {
-        "id": "227",
-        "name": "Bergeyella zoohelcum",
-        "parent": "1219"
-    },
-    {
-        "id": "131",
-        "name": "Bermanella marisrubri",
-        "parent": "1593"
-    },
-    {
-        "id": "247",
-        "name": "Bernardetia litoralis",
-        "parent": "1747"
-    },
-    {
-        "id": "155",
-        "name": "Bifidobacterium angulatum",
-        "parent": "1110"
-    },
-    {
-        "id": "269",
-        "name": "Bifidobacterium animalis",
-        "parent": "1202"
-    },
-    {
         "id": "950",
         "name": "Bifidobacterium bifidum",
         "parent": "1052"
@@ -5654,11 +5344,6 @@
         "parent": "1545"
     },
     {
-        "id": "249",
-        "name": "Bizionia argentinensis",
-        "parent": "1260"
-    },
-    {
         "id": "90",
         "name": "Blastococcus saxobsidens",
         "parent": "1090"
@@ -5669,24 +5354,9 @@
         "parent": "1613"
     },
     {
-        "id": "675",
-        "name": "Blattabacterium sp.",
-        "parent": "1716"
-    },
-    {
         "id": "216",
         "name": "Blochmannia floridanus",
         "parent": "1686"
-    },
-    {
-        "id": "857",
-        "name": "Bordetella avium",
-        "parent": "1078"
-    },
-    {
-        "id": "51",
-        "name": "Bordetella pertussis",
-        "parent": "1078"
     },
     {
         "id": "78",
@@ -5702,11 +5372,6 @@
         "id": "842",
         "name": "Brachybacterium faecium",
         "parent": "1647"
-    },
-    {
-        "id": "973",
-        "name": "Brachyspira pilosicoli",
-        "parent": "1889"
     },
     {
         "id": "40",
@@ -5734,39 +5399,14 @@
         "parent": "1380"
     },
     {
-        "id": "81",
-        "name": "Brevibacillus laterosporus",
-        "parent": "1380"
-    },
-    {
-        "id": "879",
-        "name": "Brevibacterium mcbrellneri",
-        "parent": "1687"
-    },
-    {
-        "id": "59",
-        "name": "Brevundimonas subvibrioides",
-        "parent": "1475"
-    },
-    {
         "id": "12",
         "name": "Brucella abortus",
         "parent": "1021"
     },
     {
-        "id": "27",
-        "name": "Buchnera aphidicola",
-        "parent": "1470"
-    },
-    {
         "id": "778",
         "name": "Buchnera aphidicola",
         "parent": "1669"
-    },
-    {
-        "id": "889",
-        "name": "Buchnera aphidicola",
-        "parent": "1470"
     },
     {
         "id": "794",
@@ -5779,26 +5419,6 @@
         "parent": "1081"
     },
     {
-        "id": "773",
-        "name": "Burkholderia sp.",
-        "parent": "1023"
-    },
-    {
-        "id": "67",
-        "name": "Burkholderiaceae bacterium",
-        "parent": "1295"
-    },
-    {
-        "id": "205",
-        "name": "Burkholderiales bacterium",
-        "parent": "1271"
-    },
-    {
-        "id": "15",
-        "name": "Butyrivibrio proteoclasticus",
-        "parent": "1701"
-    },
-    {
         "id": "360",
         "name": "Caldanaerobacter subterraneus",
         "parent": "1036"
@@ -5809,34 +5429,14 @@
         "parent": "1773"
     },
     {
-        "id": "751",
-        "name": "Calditerrivibrio nitroreducens",
-        "parent": "1424"
-    },
-    {
         "id": "792",
         "name": "Caldithrix abyssi",
         "parent": "1776"
     },
     {
-        "id": "447",
-        "name": "Caloramator australicus",
-        "parent": "1703"
-    },
-    {
         "id": "550",
         "name": "Campylobacter curvus",
         "parent": "1281"
-    },
-    {
-        "id": "505",
-        "name": "Campylobacter gracilis",
-        "parent": "1381"
-    },
-    {
-        "id": "45",
-        "name": "Campylobacter hominis",
-        "parent": "1381"
     },
     {
         "id": "986",
@@ -5849,16 +5449,6 @@
         "parent": "1013"
     },
     {
-        "id": "157",
-        "name": "Campylobacter showae",
-        "parent": "1013"
-    },
-    {
-        "id": "697",
-        "name": "Candidatus Jettenia",
-        "parent": "1873"
-    },
-    {
         "id": "516",
         "name": "Candidatus Paraburkholderia",
         "parent": "1222"
@@ -5869,34 +5459,9 @@
         "parent": "1391"
     },
     {
-        "id": "929",
-        "name": "Capnocytophaga ochracea",
-        "parent": "1239"
-    },
-    {
-        "id": "169",
-        "name": "Capnocytophaga sp.",
-        "parent": "1239"
-    },
-    {
         "id": "690",
         "name": "Carboxydothermus hydrogenoformans",
         "parent": "1616"
-    },
-    {
-        "id": "621",
-        "name": "Cardiobacterium hominis",
-        "parent": "1473"
-    },
-    {
-        "id": "943",
-        "name": "Carnobacterium maltaromaticum",
-        "parent": "1538"
-    },
-    {
-        "id": "727",
-        "name": "Carsonella ruddii",
-        "parent": "1893"
     },
     {
         "id": "854",
@@ -5919,24 +5484,9 @@
         "parent": "1096"
     },
     {
-        "id": "319",
-        "name": "Celeribacter baekdonensis",
-        "parent": "1363"
-    },
-    {
-        "id": "523",
-        "name": "Cellulomonas flavigena",
-        "parent": "1142"
-    },
-    {
         "id": "266",
         "name": "Cellulomonas gilvus",
         "parent": "1142"
-    },
-    {
-        "id": "543",
-        "name": "Cellulophaga lytica",
-        "parent": "1249"
     },
     {
         "id": "412",
@@ -5954,21 +5504,6 @@
         "parent": "1636"
     },
     {
-        "id": "203",
-        "name": "Chlamydia trachomatis",
-        "parent": "1813"
-    },
-    {
-        "id": "521",
-        "name": "Chlorobaculum tepidum",
-        "parent": "1285"
-    },
-    {
-        "id": "711",
-        "name": "Chlorobium chlorochromatii",
-        "parent": "1252"
-    },
-    {
         "id": "936",
         "name": "Chlorobium ferrooxidans",
         "parent": "1084"
@@ -5979,16 +5514,6 @@
         "parent": "1210"
     },
     {
-        "id": "443",
-        "name": "Chloroflexus aurantiacus",
-        "parent": "1452"
-    },
-    {
-        "id": "573",
-        "name": "Chloroherpeton thalassium",
-        "parent": "1693"
-    },
-    {
         "id": "334",
         "name": "Chromobacterium violaceum",
         "parent": "1228"
@@ -5997,16 +5522,6 @@
         "id": "956",
         "name": "Chthoniobacter flavus",
         "parent": "1752"
-    },
-    {
-        "id": "507",
-        "name": "Clavibacter michiganensis",
-        "parent": "1341"
-    },
-    {
-        "id": "665",
-        "name": "Cloacimonas acidaminovorans",
-        "parent": "1875"
     },
     {
         "id": "718",
@@ -6024,11 +5539,6 @@
         "parent": "1596"
     },
     {
-        "id": "501",
-        "name": "Clostridium botulinum",
-        "parent": "1451"
-    },
-    {
         "id": "96",
         "name": "Clostridium butyricum",
         "parent": "1278"
@@ -6037,11 +5547,6 @@
         "id": "544",
         "name": "Clostridium carboxidivorans",
         "parent": "1437"
-    },
-    {
-        "id": "181",
-        "name": "Clostridium cellulovorans",
-        "parent": "1596"
     },
     {
         "id": "64",
@@ -6074,34 +5579,9 @@
         "parent": "1319"
     },
     {
-        "id": "699",
-        "name": "Clostridium sp.",
-        "parent": "1079"
-    },
-    {
         "id": "934",
         "name": "Clostridium tetani",
         "parent": "1451"
-    },
-    {
-        "id": "357",
-        "name": "Coleofasciculus chthonoplastes",
-        "parent": "1399"
-    },
-    {
-        "id": "423",
-        "name": "Colwellia psychrerythraea",
-        "parent": "1509"
-    },
-    {
-        "id": "609",
-        "name": "Comamonas testosteroni",
-        "parent": "1094"
-    },
-    {
-        "id": "109",
-        "name": "Coprobacillus cateniformis",
-        "parent": "1457"
     },
     {
         "id": "176",
@@ -6109,39 +5589,14 @@
         "parent": "1842"
     },
     {
-        "id": "381",
-        "name": "Coraliomargarita akajimensis",
-        "parent": "1698"
-    },
-    {
         "id": "276",
         "name": "Corallococcus coralloides",
         "parent": "1290"
     },
     {
-        "id": "911",
-        "name": "Corynebacterium aurimucosum",
-        "parent": "1029"
-    },
-    {
         "id": "26",
         "name": "Corynebacterium diphtheriae",
         "parent": "1059"
-    },
-    {
-        "id": "493",
-        "name": "Corynebacterium efficiens",
-        "parent": "1058"
-    },
-    {
-        "id": "103",
-        "name": "Corynebacterium genitalium",
-        "parent": "1337"
-    },
-    {
-        "id": "907",
-        "name": "Corynebacterium glutamicum",
-        "parent": "1058"
     },
     {
         "id": "488",
@@ -6159,11 +5614,6 @@
         "parent": "1257"
     },
     {
-        "id": "713",
-        "name": "Corynebacterium otitidis",
-        "parent": "1455"
-    },
-    {
         "id": "128",
         "name": "Corynebacterium pseudotuberculosis",
         "parent": "1059"
@@ -6174,19 +5624,9 @@
         "parent": "1095"
     },
     {
-        "id": "759",
-        "name": "Corynebacterium striatum",
-        "parent": "1029"
-    },
-    {
         "id": "974",
         "name": "Corynebacterium urealyticum",
         "parent": "1192"
-    },
-    {
-        "id": "591",
-        "name": "Coxiella burnetii",
-        "parent": "1787"
     },
     {
         "id": "966",
@@ -6209,16 +5649,6 @@
         "parent": "1263"
     },
     {
-        "id": "23",
-        "name": "Cyanobium sp.",
-        "parent": "1123"
-    },
-    {
-        "id": "719",
-        "name": "Cyanothece sp.",
-        "parent": "1394"
-    },
-    {
         "id": "410",
         "name": "Cyclobacterium marinum",
         "parent": "1439"
@@ -6227,16 +5657,6 @@
         "id": "416",
         "name": "Cycloclasticus sp.",
         "parent": "1630"
-    },
-    {
-        "id": "441",
-        "name": "Cytophaga hutchinsonii",
-        "parent": "1718"
-    },
-    {
-        "id": "363",
-        "name": "Deferribacter desulfuricans",
-        "parent": "1424"
     },
     {
         "id": "594",
@@ -6254,31 +5674,6 @@
         "parent": "1140"
     },
     {
-        "id": "107",
-        "name": "Deinococcus geothermalis",
-        "parent": "1140"
-    },
-    {
-        "id": "823",
-        "name": "Deinococcus gobiensis",
-        "parent": "1176"
-    },
-    {
-        "id": "3",
-        "name": "Deinococcus proteolyticus",
-        "parent": "1355"
-    },
-    {
-        "id": "623",
-        "name": "Deinococcus radiodurans",
-        "parent": "1176"
-    },
-    {
-        "id": "399",
-        "name": "Delftia acidovorans",
-        "parent": "1094"
-    },
-    {
         "id": "440",
         "name": "Denitrovibrio acetiphilus",
         "parent": "1619"
@@ -6289,19 +5684,9 @@
         "parent": "1765"
     },
     {
-        "id": "221",
-        "name": "Desulfitobacterium hafniense",
-        "parent": "1524"
-    },
-    {
         "id": "188",
         "name": "Desulfobacca acetoxidans",
         "parent": "1746"
-    },
-    {
-        "id": "255",
-        "name": "Desulfobacter postgatei",
-        "parent": "1414"
     },
     {
         "id": "56",
@@ -6309,29 +5694,9 @@
         "parent": "1520"
     },
     {
-        "id": "975",
-        "name": "Desulfobacula toluolica",
-        "parent": "1414"
-    },
-    {
-        "id": "503",
-        "name": "Desulfofarcimen acetoxidans",
-        "parent": "1568"
-    },
-    {
-        "id": "533",
-        "name": "Desulfohalobium retbaense",
-        "parent": "1569"
-    },
-    {
         "id": "432",
         "name": "Desulfomicrobium baculatum",
         "parent": "1569"
-    },
-    {
-        "id": "965",
-        "name": "Desulfomonile tiedjei",
-        "parent": "1806"
     },
     {
         "id": "138",
@@ -6349,24 +5714,9 @@
         "parent": "1042"
     },
     {
-        "id": "351",
-        "name": "Desulfosporosinus orientis",
-        "parent": "1092"
-    },
-    {
         "id": "84",
         "name": "Desulfosporosinus sp.",
         "parent": "1185"
-    },
-    {
-        "id": "29",
-        "name": "Desulfosporosinus youngiae",
-        "parent": "1042"
-    },
-    {
-        "id": "939",
-        "name": "Desulfotalea psychrophila",
-        "parent": "1769"
     },
     {
         "id": "688",
@@ -6384,16 +5734,6 @@
         "parent": "1116"
     },
     {
-        "id": "41",
-        "name": "Desulfovibrio piger",
-        "parent": "1230"
-    },
-    {
-        "id": "567",
-        "name": "Desulfovibrio salexigens",
-        "parent": "1504"
-    },
-    {
         "id": "542",
         "name": "Desulfovibrio sp.",
         "parent": "1116"
@@ -6407,11 +5747,6 @@
         "id": "838",
         "name": "Desulfovibrio vulgaris",
         "parent": "1177"
-    },
-    {
-        "id": "341",
-        "name": "Desulfurispirillum indicum",
-        "parent": "1815"
     },
     {
         "id": "696",
@@ -6449,49 +5784,9 @@
         "parent": "1473"
     },
     {
-        "id": "421",
-        "name": "Dickeya dadantii",
-        "parent": "1182"
-    },
-    {
-        "id": "405",
-        "name": "Dictyoglomus turgidum",
-        "parent": "1842"
-    },
-    {
-        "id": "489",
-        "name": "Dinoroseobacter shibae",
-        "parent": "1324"
-    },
-    {
-        "id": "265",
-        "name": "Dolosigranulum pigrum",
-        "parent": "1637"
-    },
-    {
-        "id": "511",
-        "name": "Dyadobacter fermentans",
-        "parent": "1617"
-    },
-    {
         "id": "646",
         "name": "Dysgonomonas gadei",
         "parent": "1097"
-    },
-    {
-        "id": "101",
-        "name": "Dysgonomonas mossii",
-        "parent": "1097"
-    },
-    {
-        "id": "123",
-        "name": "Eggerthella lenta",
-        "parent": "1548"
-    },
-    {
-        "id": "801",
-        "name": "Ehrlichia canis",
-        "parent": "1527"
     },
     {
         "id": "926",
@@ -6504,16 +5799,6 @@
         "parent": "1034"
     },
     {
-        "id": "809",
-        "name": "Enterococcus faecalis",
-        "parent": "1396"
-    },
-    {
-        "id": "791",
-        "name": "Eremococcus coleocola",
-        "parent": "1442"
-    },
-    {
         "id": "194",
         "name": "Erwinia tasmaniensis",
         "parent": "1129"
@@ -6522,21 +5807,6 @@
         "id": "230",
         "name": "Erysipelatoclostridium ramosum",
         "parent": "1120"
-    },
-    {
-        "id": "577",
-        "name": "Erysipelothrix rhusiopathiae",
-        "parent": "1804"
-    },
-    {
-        "id": "261",
-        "name": "Erythrobacter sp.",
-        "parent": "1195"
-    },
-    {
-        "id": "793",
-        "name": "Erythrobacter sp.",
-        "parent": "1195"
     },
     {
         "id": "720",
@@ -6549,24 +5819,9 @@
         "parent": "1002"
     },
     {
-        "id": "257",
-        "name": "Ethanoligenens harbinense",
-        "parent": "1666"
-    },
-    {
         "id": "700",
         "name": "Eubacterium callanderi",
         "parent": "1497"
-    },
-    {
-        "id": "425",
-        "name": "Eubacterium eligens",
-        "parent": "1323"
-    },
-    {
-        "id": "431",
-        "name": "Eubacterium infirmum",
-        "parent": "1500"
     },
     {
         "id": "70",
@@ -6594,21 +5849,6 @@
         "parent": "1259"
     },
     {
-        "id": "497",
-        "name": "Faecalibacterium prausnitzii",
-        "parent": "1371"
-    },
-    {
-        "id": "223",
-        "name": "Ferrimonas balearica",
-        "parent": "1484"
-    },
-    {
-        "id": "987",
-        "name": "Fervidobacterium nodosum",
-        "parent": "1614"
-    },
-    {
         "id": "784",
         "name": "Fibrobacter succinogenes",
         "parent": "1902"
@@ -6629,24 +5869,9 @@
         "parent": "1595"
     },
     {
-        "id": "87",
-        "name": "Fischerella thermalis",
-        "parent": "1174"
-    },
-    {
         "id": "50",
         "name": "Flavobacteria bacterium",
         "parent": "1448"
-    },
-    {
-        "id": "163",
-        "name": "Flavobacteria bacterium",
-        "parent": "1556"
-    },
-    {
-        "id": "165",
-        "name": "Flavobacteria bacterium",
-        "parent": "1136"
     },
     {
         "id": "484",
@@ -6664,26 +5889,6 @@
         "parent": "1136"
     },
     {
-        "id": "615",
-        "name": "Flavobacterium psychrophilum",
-        "parent": "1199"
-    },
-    {
-        "id": "353",
-        "name": "Flavonifractor plautii",
-        "parent": "1277"
-    },
-    {
-        "id": "555",
-        "name": "Flexistipes sinusarabici",
-        "parent": "1483"
-    },
-    {
-        "id": "679",
-        "name": "Fluviicola taffensis",
-        "parent": "1717"
-    },
-    {
         "id": "366",
         "name": "Francisella tularensis",
         "parent": "1852"
@@ -6691,11 +5896,6 @@
     {
         "id": "768",
         "name": "Frankia alni",
-        "parent": "1085"
-    },
-    {
-        "id": "287",
-        "name": "Frankia casuarinae",
         "parent": "1085"
     },
     {
@@ -6709,24 +5909,9 @@
         "parent": "1086"
     },
     {
-        "id": "647",
-        "name": "Frankia sp.",
-        "parent": "1086"
-    },
-    {
         "id": "80",
         "name": "Frankia symbiont",
         "parent": "1388"
-    },
-    {
-        "id": "415",
-        "name": "Frateuria aurantia",
-        "parent": "1376"
-    },
-    {
-        "id": "683",
-        "name": "Fulvimarina pelagi",
-        "parent": "1217"
     },
     {
         "id": "114",
@@ -6734,34 +5919,14 @@
         "parent": "1201"
     },
     {
-        "id": "903",
-        "name": "Fusobacterium necrophorum",
-        "parent": "1478"
-    },
-    {
         "id": "508",
         "name": "Fusobacterium nucleatum",
         "parent": "1012"
     },
     {
-        "id": "909",
-        "name": "Fusobacterium nucleatum",
-        "parent": "1012"
-    },
-    {
-        "id": "445",
-        "name": "Fusobacterium varium",
-        "parent": "1201"
-    },
-    {
         "id": "628",
         "name": "Galbibacter marinus",
         "parent": "1126"
-    },
-    {
-        "id": "691",
-        "name": "Gallaecimonas xiamenensis",
-        "parent": "1532"
     },
     {
         "id": "988",
@@ -6779,34 +5944,9 @@
         "parent": "1046"
     },
     {
-        "id": "187",
-        "name": "Geobacillus sp.",
-        "parent": "1046"
-    },
-    {
-        "id": "473",
-        "name": "Geobacillus sp.",
-        "parent": "1322"
-    },
-    {
-        "id": "5",
-        "name": "Geobacter daltonii",
-        "parent": "1141"
-    },
-    {
         "id": "464",
         "name": "Geobacter lovleyi",
         "parent": "1372"
-    },
-    {
-        "id": "639",
-        "name": "Geobacter metallireducens",
-        "parent": "1091"
-    },
-    {
-        "id": "65",
-        "name": "Geobacter sulfurreducens",
-        "parent": "1091"
     },
     {
         "id": "302",
@@ -6814,19 +5954,9 @@
         "parent": "1141"
     },
     {
-        "id": "91",
-        "name": "Geodermatophilus obscurus",
-        "parent": "1090"
-    },
-    {
         "id": "190",
         "name": "Gillisia limnaea",
         "parent": "1360"
-    },
-    {
-        "id": "633",
-        "name": "Gimesia maris",
-        "parent": "1625"
     },
     {
         "id": "362",
@@ -6842,16 +5972,6 @@
         "id": "424",
         "name": "Gluconacetobacter diazotrophicus",
         "parent": "1232"
-    },
-    {
-        "id": "387",
-        "name": "Gluconacetobacter sp.",
-        "parent": "1109"
-    },
-    {
-        "id": "891",
-        "name": "Gluconobacter morbifer",
-        "parent": "1031"
     },
     {
         "id": "648",
@@ -6894,11 +6014,6 @@
         "parent": "1353"
     },
     {
-        "id": "545",
-        "name": "Granulicella tundricola",
-        "parent": "1353"
-    },
-    {
         "id": "814",
         "name": "Grimontia hollisae",
         "parent": "1284"
@@ -6924,16 +6039,6 @@
         "parent": "1026"
     },
     {
-        "id": "827",
-        "name": "Haemophilus sputorum",
-        "parent": "1087"
-    },
-    {
-        "id": "951",
-        "name": "Hahella chejuensis",
-        "parent": "1689"
-    },
-    {
         "id": "284",
         "name": "Halanaerobium hydrogeniformans",
         "parent": "1248"
@@ -6944,24 +6049,9 @@
         "parent": "1248"
     },
     {
-        "id": "245",
-        "name": "Haliangium ochraceum",
-        "parent": "1827"
-    },
-    {
         "id": "724",
         "name": "Halieaceae bacterium",
         "parent": "1445"
-    },
-    {
-        "id": "705",
-        "name": "Halobacillus halophilus",
-        "parent": "1450"
-    },
-    {
-        "id": "211",
-        "name": "Halomonas sp.",
-        "parent": "1639"
     },
     {
         "id": "110",
@@ -6979,33 +6069,13 @@
         "parent": "1601"
     },
     {
-        "id": "583",
-        "name": "Hamiltonella defensa",
-        "parent": "1540"
-    },
-    {
         "id": "526",
         "name": "Helcococcus kunzii",
         "parent": "1836"
     },
     {
-        "id": "651",
-        "name": "Helicobacter bizzozeronii",
-        "parent": "1401"
-    },
-    {
-        "id": "327",
-        "name": "Helicobacter canadensis",
-        "parent": "1433"
-    },
-    {
         "id": "68",
         "name": "Helicobacter hepaticus",
-        "parent": "1456"
-    },
-    {
-        "id": "671",
-        "name": "Helicobacter mustelae",
         "parent": "1456"
     },
     {
@@ -7024,11 +6094,6 @@
         "parent": "1032"
     },
     {
-        "id": "769",
-        "name": "Herbaspirillum sp.",
-        "parent": "1100"
-    },
-    {
         "id": "352",
         "name": "Herminiimonas arsenicoxydans",
         "parent": "1258"
@@ -7044,11 +6109,6 @@
         "parent": "1645"
     },
     {
-        "id": "743",
-        "name": "Hoeflea phototrophica",
-        "parent": "1458"
-    },
-    {
         "id": "442",
         "name": "Holdemanella biformis",
         "parent": "1564"
@@ -7059,19 +6119,9 @@
         "parent": "1719"
     },
     {
-        "id": "463",
-        "name": "Hungateiclostridium clariflavum",
-        "parent": "1229"
-    },
-    {
         "id": "24",
         "name": "Hungateiclostridium thermocellum",
         "parent": "1229"
-    },
-    {
-        "id": "435",
-        "name": "Hungatella hathewayi",
-        "parent": "1368"
     },
     {
         "id": "344",
@@ -7109,16 +6159,6 @@
         "parent": "1107"
     },
     {
-        "id": "153",
-        "name": "Hyphomicrobium sp.",
-        "parent": "1107"
-    },
-    {
-        "id": "25",
-        "name": "Idiomarina loihiensis",
-        "parent": "1532"
-    },
-    {
         "id": "908",
         "name": "Ignavibacterium album",
         "parent": "1776"
@@ -7139,11 +6179,6 @@
         "parent": "1096"
     },
     {
-        "id": "197",
-        "name": "Janibacter sp.",
-        "parent": "1487"
-    },
-    {
         "id": "134",
         "name": "Johnsonella ignava",
         "parent": "1446"
@@ -7159,24 +6194,9 @@
         "parent": "1505"
     },
     {
-        "id": "551",
-        "name": "Joostella marina",
-        "parent": "1126"
-    },
-    {
-        "id": "755",
-        "name": "Kangiella koreensis",
-        "parent": "1681"
-    },
-    {
         "id": "32",
         "name": "Kineococcus radiotolerans",
         "parent": "1621"
-    },
-    {
-        "id": "631",
-        "name": "Kingella denitrificans",
-        "parent": "1048"
     },
     {
         "id": "490",
@@ -7194,24 +6214,9 @@
         "parent": "1629"
     },
     {
-        "id": "57",
-        "name": "Klebsiella pneumoniae",
-        "parent": "1001"
-    },
-    {
         "id": "140",
         "name": "Klebsiella pneumoniae",
         "parent": "1001"
-    },
-    {
-        "id": "359",
-        "name": "Komagataeibacter hansenii",
-        "parent": "1109"
-    },
-    {
-        "id": "189",
-        "name": "Koribacter versatilis",
-        "parent": "1712"
     },
     {
         "id": "42",
@@ -7219,39 +6224,9 @@
         "parent": "1488"
     },
     {
-        "id": "877",
-        "name": "Ktedonobacter racemifer",
-        "parent": "1881"
-    },
-    {
-        "id": "43",
-        "name": "Kyrpidia tusciae",
-        "parent": "1646"
-    },
-    {
         "id": "502",
         "name": "Lachnoanaerobaculum sp.",
         "parent": "1446"
-    },
-    {
-        "id": "795",
-        "name": "Lachnoclostridium phytofermentans",
-        "parent": "1664"
-    },
-    {
-        "id": "305",
-        "name": "Lachnospiraceae bacterium",
-        "parent": "1235"
-    },
-    {
-        "id": "433",
-        "name": "Lachnospiraceae bacterium",
-        "parent": "1124"
-    },
-    {
-        "id": "499",
-        "name": "Lachnospiraceae bacterium",
-        "parent": "1585"
     },
     {
         "id": "586",
@@ -7262,21 +6237,6 @@
         "id": "774",
         "name": "Lactobacillus acidophilus",
         "parent": "1276"
-    },
-    {
-        "id": "213",
-        "name": "Lactobacillus brevis",
-        "parent": "1370"
-    },
-    {
-        "id": "703",
-        "name": "Lactobacillus brevis",
-        "parent": "1025"
-    },
-    {
-        "id": "137",
-        "name": "Lactobacillus buchneri",
-        "parent": "1056"
     },
     {
         "id": "370",
@@ -7294,19 +6254,9 @@
         "parent": "1276"
     },
     {
-        "id": "111",
-        "name": "Lactobacillus gastricus",
-        "parent": "1282"
-    },
-    {
         "id": "760",
         "name": "Lactobacillus iners",
         "parent": "1392"
-    },
-    {
-        "id": "539",
-        "name": "Lactobacillus mucosae",
-        "parent": "1243"
     },
     {
         "id": "786",
@@ -7334,19 +6284,9 @@
         "parent": "1407"
     },
     {
-        "id": "429",
-        "name": "Lactobacillus salivarius",
-        "parent": "1283"
-    },
-    {
         "id": "522",
         "name": "Lactobacillus sanfranciscensis",
         "parent": "1606"
-    },
-    {
-        "id": "657",
-        "name": "Lactococcus lactis",
-        "parent": "1660"
     },
     {
         "id": "832",
@@ -7354,69 +6294,9 @@
         "parent": "1385"
     },
     {
-        "id": "899",
-        "name": "Lawsonia intracellularis",
-        "parent": "1715"
-    },
-    {
-        "id": "813",
-        "name": "Leadbetterella byssophila",
-        "parent": "1617"
-    },
-    {
-        "id": "749",
-        "name": "Leeuwenhoekiella blandensis",
-        "parent": "1360"
-    },
-    {
-        "id": "337",
-        "name": "Legionella drancourtii",
-        "parent": "1188"
-    },
-    {
-        "id": "739",
-        "name": "Legionella longbeachae",
-        "parent": "1188"
-    },
-    {
-        "id": "835",
-        "name": "Legionella pneumophila",
-        "parent": "1233"
-    },
-    {
-        "id": "451",
-        "name": "Leifsonia xyli",
-        "parent": "1341"
-    },
-    {
-        "id": "209",
-        "name": "Lentisphaera araneosa",
-        "parent": "1894"
-    },
-    {
-        "id": "913",
-        "name": "Leptonema illini",
-        "parent": "1812"
-    },
-    {
-        "id": "457",
-        "name": "Leptospira biflexa",
-        "parent": "1534"
-    },
-    {
-        "id": "377",
-        "name": "Leptospira interrogans",
-        "parent": "1314"
-    },
-    {
         "id": "386",
         "name": "Leptospira licerasiae",
         "parent": "1314"
-    },
-    {
-        "id": "99",
-        "name": "Leptospirillum ferriphilum",
-        "parent": "1336"
     },
     {
         "id": "954",
@@ -7429,19 +6309,9 @@
         "parent": "1271"
     },
     {
-        "id": "229",
-        "name": "Leptotrichia buccalis",
-        "parent": "1014"
-    },
-    {
         "id": "888",
         "name": "Leptotrichia goodfellowii",
         "parent": "1299"
-    },
-    {
-        "id": "515",
-        "name": "Leptotrichia hofstadii",
-        "parent": "1014"
     },
     {
         "id": "840",
@@ -7464,11 +6334,6 @@
         "parent": "1387"
     },
     {
-        "id": "885",
-        "name": "Lyngbya sp.",
-        "parent": "1316"
-    },
-    {
         "id": "400",
         "name": "Macrococcus caseolyticus",
         "parent": "1369"
@@ -7479,34 +6344,9 @@
         "parent": "1814"
     },
     {
-        "id": "17",
-        "name": "Magnetospirillum magneticum",
-        "parent": "1287"
-    },
-    {
-        "id": "941",
-        "name": "Maribacter sp.",
-        "parent": "1249"
-    },
-    {
         "id": "380",
         "name": "Maricaulis maris",
         "parent": "1404"
-    },
-    {
-        "id": "549",
-        "name": "Marichromatium purpuratum",
-        "parent": "1227"
-    },
-    {
-        "id": "73",
-        "name": "Marinithermus hydrothermalis",
-        "parent": "1326"
-    },
-    {
-        "id": "737",
-        "name": "Marinitoga piezophila",
-        "parent": "1755"
     },
     {
         "id": "928",
@@ -7529,11 +6369,6 @@
         "parent": "1585"
     },
     {
-        "id": "355",
-        "name": "Megasphaera micronuciformis",
-        "parent": "1044"
-    },
-    {
         "id": "856",
         "name": "Megasphaera sp.",
         "parent": "1334"
@@ -7549,16 +6384,6 @@
         "parent": "1587"
     },
     {
-        "id": "367",
-        "name": "Mesorhizobium alhagi",
-        "parent": "1160"
-    },
-    {
-        "id": "55",
-        "name": "Mesorhizobium ciceri",
-        "parent": "1160"
-    },
-    {
         "id": "320",
         "name": "Mesotoga prima",
         "parent": "1488"
@@ -7569,24 +6394,9 @@
         "parent": "1848"
     },
     {
-        "id": "561",
-        "name": "Methylibium petroleiphilum",
-        "parent": "1297"
-    },
-    {
-        "id": "513",
-        "name": "Methylobacillus flagellatus",
-        "parent": "1170"
-    },
-    {
         "id": "500",
         "name": "Methylobacter tundripaludum",
         "parent": "1256"
-    },
-    {
-        "id": "343",
-        "name": "Methylobacterium radiotolerans",
-        "parent": "1211"
     },
     {
         "id": "812",
@@ -7609,11 +6419,6 @@
         "parent": "1502"
     },
     {
-        "id": "329",
-        "name": "Methylomicrobium album",
-        "parent": "1256"
-    },
-    {
         "id": "706",
         "name": "Methylophaga aminisulfidivorans",
         "parent": "1068"
@@ -7634,24 +6439,9 @@
         "parent": "1073"
     },
     {
-        "id": "121",
-        "name": "Methylovorus glucosetrophus",
-        "parent": "1170"
-    },
-    {
         "id": "246",
         "name": "Micrococcus luteus",
         "parent": "1463"
-    },
-    {
-        "id": "895",
-        "name": "Microcystis aeruginosa",
-        "parent": "1352"
-    },
-    {
-        "id": "313",
-        "name": "Micromonospora aurantiaca",
-        "parent": "1128"
     },
     {
         "id": "318",
@@ -7664,49 +6454,14 @@
         "parent": "1490"
     },
     {
-        "id": "383",
-        "name": "Midichloria mitochondrii",
-        "parent": "1834"
-    },
-    {
         "id": "952",
         "name": "Mobilicoccus pelagius",
         "parent": "1487"
     },
     {
-        "id": "7",
-        "name": "Mobiluncus curtisii",
-        "parent": "1184"
-    },
-    {
         "id": "356",
         "name": "Mobiluncus mulieris",
         "parent": "1184"
-    },
-    {
-        "id": "607",
-        "name": "Modestobacter marinus",
-        "parent": "1148"
-    },
-    {
-        "id": "611",
-        "name": "Mogibacterium sp.",
-        "parent": "1500"
-    },
-    {
-        "id": "585",
-        "name": "Moorea producens",
-        "parent": "1399"
-    },
-    {
-        "id": "991",
-        "name": "Moorella thermoacetica",
-        "parent": "1611"
-    },
-    {
-        "id": "811",
-        "name": "Moranella endobia",
-        "parent": "1343"
     },
     {
         "id": "540",
@@ -7719,16 +6474,6 @@
         "parent": "1512"
     },
     {
-        "id": "937",
-        "name": "Mycobacterium chubuense",
-        "parent": "1065"
-    },
-    {
-        "id": "361",
-        "name": "Mycobacterium leprae",
-        "parent": "1203"
-    },
-    {
         "id": "86",
         "name": "Mycobacterium marinum",
         "parent": "1047"
@@ -7739,34 +6484,9 @@
         "parent": "1065"
     },
     {
-        "id": "427",
-        "name": "Mycobacterium tuberculosis",
-        "parent": "1047"
-    },
-    {
-        "id": "923",
-        "name": "Mycobacterium xenopi",
-        "parent": "1061"
-    },
-    {
-        "id": "767",
-        "name": "Mycolicibacterium hassiacum",
-        "parent": "1076"
-    },
-    {
-        "id": "275",
-        "name": "Mycolicibacterium paratuberculosis",
-        "parent": "1061"
-    },
-    {
         "id": "346",
         "name": "Mycolicibacterium smegmatis",
         "parent": "1134"
-    },
-    {
-        "id": "589",
-        "name": "Mycolicibacterium thermoresistibile",
-        "parent": "1076"
     },
     {
         "id": "582",
@@ -7799,36 +6519,6 @@
         "parent": "1547"
     },
     {
-        "id": "379",
-        "name": "Mycoplasma gallisepticum",
-        "parent": "1667"
-    },
-    {
-        "id": "837",
-        "name": "Mycoplasma genitalium",
-        "parent": "1200"
-    },
-    {
-        "id": "49",
-        "name": "Mycoplasma hominis",
-        "parent": "1793"
-    },
-    {
-        "id": "195",
-        "name": "Mycoplasma mycoides",
-        "parent": "1587"
-    },
-    {
-        "id": "215",
-        "name": "Mycoplasma penetrans",
-        "parent": "1863"
-    },
-    {
-        "id": "935",
-        "name": "Mycoplasma pneumoniae",
-        "parent": "1200"
-    },
-    {
         "id": "372",
         "name": "Mycoplasma pulmonis",
         "parent": "1771"
@@ -7839,19 +6529,9 @@
         "parent": "1667"
     },
     {
-        "id": "331",
-        "name": "Myroides odoratus",
-        "parent": "1462"
-    },
-    {
         "id": "920",
         "name": "Nakamurella multipartita",
         "parent": "1577"
-    },
-    {
-        "id": "219",
-        "name": "Natranaerobius thermophilus",
-        "parent": "1734"
     },
     {
         "id": "332",
@@ -7869,54 +6549,14 @@
         "parent": "1004"
     },
     {
-        "id": "815",
-        "name": "Neisseria shayeganii",
-        "parent": "1149"
-    },
-    {
-        "id": "95",
-        "name": "Neisseria sicca",
-        "parent": "1038"
-    },
-    {
-        "id": "191",
-        "name": "Neisseria wadsworthii",
-        "parent": "1149"
-    },
-    {
-        "id": "875",
-        "name": "Neorickettsia sennetsu",
-        "parent": "1772"
-    },
-    {
         "id": "272",
         "name": "Niabella soli",
         "parent": "1536"
     },
     {
-        "id": "303",
-        "name": "Niastella koreensis",
-        "parent": "1536"
-    },
-    {
-        "id": "271",
-        "name": "Nitratireductor indicus",
-        "parent": "1051"
-    },
-    {
         "id": "652",
         "name": "Nitratireductor pacificus",
         "parent": "1051"
-    },
-    {
-        "id": "819",
-        "name": "Nitratiruptor sp.",
-        "parent": "1541"
-    },
-    {
-        "id": "541",
-        "name": "Nitrobacter hamburgensis",
-        "parent": "1220"
     },
     {
         "id": "314",
@@ -7944,16 +6584,6 @@
         "parent": "1344"
     },
     {
-        "id": "225",
-        "name": "Nitrosomonas sp.",
-        "parent": "1041"
-    },
-    {
-        "id": "235",
-        "name": "Nitrosomonas sp.",
-        "parent": "1041"
-    },
-    {
         "id": "564",
         "name": "Nitrosospira multiformis",
         "parent": "1344"
@@ -7974,52 +6604,12 @@
         "parent": "1132"
     },
     {
-        "id": "851",
-        "name": "Nocardioides sp.",
-        "parent": "1494"
-    },
-    {
         "id": "578",
         "name": "Nocardiopsis alba",
         "parent": "1072"
     },
     {
-        "id": "799",
-        "name": "Nocardiopsis dassonvillei",
-        "parent": "1072"
-    },
-    {
-        "id": "53",
-        "name": "Nostoc azollae",
-        "parent": "1174"
-    },
-    {
-        "id": "281",
-        "name": "Nostoc punctiforme",
-        "parent": "1139"
-    },
-    {
-        "id": "465",
-        "name": "Nostoc sp.",
-        "parent": "1139"
-    },
-    {
-        "id": "709",
-        "name": "Novosphingobium nitrogenifigens",
-        "parent": "1400"
-    },
-    {
-        "id": "93",
-        "name": "Novosphingobium pentaromativorans",
-        "parent": "1236"
-    },
-    {
         "id": "562",
-        "name": "Novosphingobium sp.",
-        "parent": "1137"
-    },
-    {
-        "id": "715",
         "name": "Novosphingobium sp.",
         "parent": "1137"
     },
@@ -8029,29 +6619,9 @@
         "parent": "1511"
     },
     {
-        "id": "259",
-        "name": "Oceanicaulis sp.",
-        "parent": "1404"
-    },
-    {
-        "id": "553",
-        "name": "Oceanicola granulosus",
-        "parent": "1320"
-    },
-    {
-        "id": "243",
-        "name": "Oceanimonas sp.",
-        "parent": "1367"
-    },
-    {
         "id": "870",
         "name": "Oceaniovalibus guishaninsula",
         "parent": "1320"
-    },
-    {
-        "id": "735",
-        "name": "Oceanobacillus iheyensis",
-        "parent": "1450"
     },
     {
         "id": "16",
@@ -8069,31 +6639,6 @@
         "parent": "1652"
     },
     {
-        "id": "417",
-        "name": "Oenococcus oeni",
-        "parent": "1599"
-    },
-    {
-        "id": "601",
-        "name": "Oligotropha carboxidovorans",
-        "parent": "1191"
-    },
-    {
-        "id": "459",
-        "name": "Olsenella uli",
-        "parent": "1373"
-    },
-    {
-        "id": "527",
-        "name": "Onion yellows",
-        "parent": "1688"
-    },
-    {
-        "id": "967",
-        "name": "Opitutaceae bacterium",
-        "parent": "1566"
-    },
-    {
         "id": "250",
         "name": "Opitutus terrae",
         "parent": "1566"
@@ -8109,19 +6654,9 @@
         "parent": "1356"
     },
     {
-        "id": "753",
-        "name": "Orientia tsutsugamushi",
-        "parent": "1695"
-    },
-    {
         "id": "806",
         "name": "Ornithobacterium rhinotracheale",
         "parent": "1565"
-    },
-    {
-        "id": "971",
-        "name": "Oscillatoriales cyanobacterium",
-        "parent": "1443"
     },
     {
         "id": "330",
@@ -8132,21 +6667,6 @@
         "id": "308",
         "name": "Owenweeksia hongkongensis",
         "parent": "1717"
-    },
-    {
-        "id": "159",
-        "name": "Oxalobacter formigenes",
-        "parent": "1543"
-    },
-    {
-        "id": "479",
-        "name": "Oxalobacteraceae bacterium",
-        "parent": "1258"
-    },
-    {
-        "id": "385",
-        "name": "Paenibacillus curdlanolyticus",
-        "parent": "1346"
     },
     {
         "id": "270",
@@ -8164,24 +6684,9 @@
         "parent": "1378"
     },
     {
-        "id": "645",
-        "name": "Paenibacillus sp.",
-        "parent": "1459"
-    },
-    {
-        "id": "667",
-        "name": "Paenibacillus sp.",
-        "parent": "1346"
-    },
-    {
         "id": "798",
         "name": "Paenibacillus sp.",
         "parent": "1322"
-    },
-    {
-        "id": "301",
-        "name": "Pantoea ananatis",
-        "parent": "1010"
     },
     {
         "id": "714",
@@ -8189,34 +6694,9 @@
         "parent": "1010"
     },
     {
-        "id": "867",
-        "name": "Parabacteroides distasonis",
-        "parent": "1104"
-    },
-    {
-        "id": "829",
-        "name": "Parabacteroides johnsonii",
-        "parent": "1104"
-    },
-    {
-        "id": "439",
-        "name": "Paraburkholderia phymatum",
-        "parent": "1082"
-    },
-    {
-        "id": "409",
-        "name": "Paraburkholderia rhizoxinica",
-        "parent": "1222"
-    },
-    {
         "id": "860",
         "name": "Paraburkholderia xenovorans",
         "parent": "1023"
-    },
-    {
-        "id": "785",
-        "name": "Parachlamydia acanthamoebae",
-        "parent": "1550"
     },
     {
         "id": "772",
@@ -8234,19 +6714,9 @@
         "parent": "1153"
     },
     {
-        "id": "945",
-        "name": "Parvibaculum lavamentivorans",
-        "parent": "1576"
-    },
-    {
         "id": "886",
         "name": "Parvularcula bermudensis",
         "parent": "1691"
-    },
-    {
-        "id": "807",
-        "name": "Pasteurella bettyae",
-        "parent": "1067"
     },
     {
         "id": "430",
@@ -8264,29 +6734,9 @@
         "parent": "1180"
     },
     {
-        "id": "97",
-        "name": "Pedobacter heparinus",
-        "parent": "1189"
-    },
-    {
-        "id": "325",
-        "name": "Pedobacter sp.",
-        "parent": "1189"
-    },
-    {
-        "id": "39",
-        "name": "Pedosphaera parvula",
-        "parent": "1752"
-    },
-    {
         "id": "72",
         "name": "Pelagibacter ubique",
         "parent": "1706"
-    },
-    {
-        "id": "777",
-        "name": "Pelobacter propionicus",
-        "parent": "1372"
     },
     {
         "id": "8",
@@ -8299,16 +6749,6 @@
         "parent": "1461"
     },
     {
-        "id": "883",
-        "name": "Pelotomaculum thermopropionicum",
-        "parent": "1552"
-    },
-    {
-        "id": "859",
-        "name": "Peptoanaerobacter stomatis",
-        "parent": "1197"
-    },
-    {
         "id": "574",
         "name": "Peptoniphilus duerdenii",
         "parent": "1389"
@@ -8319,24 +6759,9 @@
         "parent": "1268"
     },
     {
-        "id": "69",
-        "name": "Peptoniphilus indolicus",
-        "parent": "1327"
-    },
-    {
         "id": "202",
         "name": "Peptoniphilus lacrimalis",
         "parent": "1268"
-    },
-    {
-        "id": "19",
-        "name": "Peptoniphilus sp.",
-        "parent": "1389"
-    },
-    {
-        "id": "579",
-        "name": "Peptoniphilus sp.",
-        "parent": "1327"
     },
     {
         "id": "614",
@@ -8344,34 +6769,9 @@
         "parent": "1197"
     },
     {
-        "id": "449",
-        "name": "Peptostreptococcus stomatis",
-        "parent": "1508"
-    },
-    {
         "id": "984",
         "name": "Persephonella marina",
         "parent": "1335"
-    },
-    {
-        "id": "725",
-        "name": "Phaeobacter inhibens",
-        "parent": "1063"
-    },
-    {
-        "id": "133",
-        "name": "Phaeospirillum molischianum",
-        "parent": "1287"
-    },
-    {
-        "id": "659",
-        "name": "Phascolarctobacterium succinatutens",
-        "parent": "1528"
-    },
-    {
-        "id": "853",
-        "name": "Phenylobacterium zucineum",
-        "parent": "1475"
     },
     {
         "id": "388",
@@ -8394,11 +6794,6 @@
         "parent": "1301"
     },
     {
-        "id": "745",
-        "name": "Phytoplasma mali",
-        "parent": "1688"
-    },
-    {
         "id": "404",
         "name": "Pirellula staleyi",
         "parent": "1613"
@@ -8409,44 +6804,9 @@
         "parent": "1682"
     },
     {
-        "id": "437",
-        "name": "Plesiocystis pacifica",
-        "parent": "1850"
-    },
-    {
-        "id": "397",
-        "name": "Polaribacter irgensii",
-        "parent": "1113"
-    },
-    {
-        "id": "369",
-        "name": "Polaribacter sp.",
-        "parent": "1113"
-    },
-    {
-        "id": "569",
-        "name": "Polaromonas naphthalenivorans",
-        "parent": "1119"
-    },
-    {
         "id": "454",
         "name": "Polaromonas sp.",
         "parent": "1035"
-    },
-    {
-        "id": "717",
-        "name": "Polaromonas sp.",
-        "parent": "1035"
-    },
-    {
-        "id": "563",
-        "name": "Polynucleobacter necessarius",
-        "parent": "1543"
-    },
-    {
-        "id": "843",
-        "name": "Porphyromonas asaccharolytica",
-        "parent": "1491"
     },
     {
         "id": "654",
@@ -8459,19 +6819,9 @@
         "parent": "1416"
     },
     {
-        "id": "529",
-        "name": "Porphyromonas sp.",
-        "parent": "1574"
-    },
-    {
         "id": "820",
         "name": "Prevotella bergensis",
         "parent": "1291"
-    },
-    {
-        "id": "625",
-        "name": "Prevotella bivia",
-        "parent": "1157"
     },
     {
         "id": "144",
@@ -8479,49 +6829,14 @@
         "parent": "1330"
     },
     {
-        "id": "83",
-        "name": "Prevotella buccae",
-        "parent": "1213"
-    },
-    {
         "id": "280",
         "name": "Prevotella maculosa",
         "parent": "1130"
     },
     {
-        "id": "77",
-        "name": "Prevotella marshii",
-        "parent": "1247"
-    },
-    {
         "id": "572",
         "name": "Prevotella melaninogenica",
         "parent": "1024"
-    },
-    {
-        "id": "453",
-        "name": "Prevotella multisaccharivorax",
-        "parent": "1291"
-    },
-    {
-        "id": "33",
-        "name": "Prevotella nigrescens",
-        "parent": "1190"
-    },
-    {
-        "id": "295",
-        "name": "Prevotella oralis",
-        "parent": "1213"
-    },
-    {
-        "id": "145",
-        "name": "Prevotella oulorum",
-        "parent": "1130"
-    },
-    {
-        "id": "239",
-        "name": "Prevotella ruminicola",
-        "parent": "1489"
     },
     {
         "id": "970",
@@ -8539,19 +6854,9 @@
         "parent": "1024"
     },
     {
-        "id": "151",
-        "name": "Prochlorococcus marinus",
-        "parent": "1098"
-    },
-    {
         "id": "584",
         "name": "Prochlorococcus marinus",
         "parent": "1214"
-    },
-    {
-        "id": "661",
-        "name": "Prochlorococcus marinus",
-        "parent": "1309"
     },
     {
         "id": "704",
@@ -8564,54 +6869,9 @@
         "parent": "1098"
     },
     {
-        "id": "179",
-        "name": "Propionibacterium freudenreichii",
-        "parent": "1481"
-    },
-    {
-        "id": "627",
-        "name": "Protochlamydia amoebophila",
-        "parent": "1550"
-    },
-    {
-        "id": "805",
-        "name": "Pseudoalteromonas haloplanktis",
-        "parent": "1509"
-    },
-    {
-        "id": "979",
-        "name": "Pseudodesulfovibrio aespoeensis",
-        "parent": "1504"
-    },
-    {
-        "id": "207",
-        "name": "Pseudoflavonifractor capillosus",
-        "parent": "1277"
-    },
-    {
         "id": "626",
         "name": "Pseudogulbenkiania sp.",
         "parent": "1228"
-    },
-    {
-        "id": "833",
-        "name": "Pseudomonas aeruginosa",
-        "parent": "1173"
-    },
-    {
-        "id": "147",
-        "name": "Pseudomonas fluorescens",
-        "parent": "1069"
-    },
-    {
-        "id": "35",
-        "name": "Pseudomonas fulva",
-        "parent": "1064"
-    },
-    {
-        "id": "643",
-        "name": "Pseudomonas mendocina",
-        "parent": "1064"
     },
     {
         "id": "164",
@@ -8622,11 +6882,6 @@
         "id": "802",
         "name": "Pseudomonas sp.",
         "parent": "1069"
-    },
-    {
-        "id": "125",
-        "name": "Pseudomonas syringae",
-        "parent": "1101"
     },
     {
         "id": "728",
@@ -8649,24 +6904,9 @@
         "parent": "1572"
     },
     {
-        "id": "763",
-        "name": "Pseudoramibacter alactolyticus",
-        "parent": "1659"
-    },
-    {
-        "id": "63",
-        "name": "Pseudothermotoga lettingae",
-        "parent": "1304"
-    },
-    {
         "id": "162",
         "name": "Pseudothermotoga thermarum",
         "parent": "1304"
-    },
-    {
-        "id": "599",
-        "name": "Pseudoxanthomonas spadix",
-        "parent": "1317"
     },
     {
         "id": "218",
@@ -8677,36 +6917,6 @@
         "id": "742",
         "name": "Puniceispirillum marinum",
         "parent": "1383"
-    },
-    {
-        "id": "565",
-        "name": "Pyramidobacter piscolens",
-        "parent": "1505"
-    },
-    {
-        "id": "455",
-        "name": "Ralstonia solanacearum",
-        "parent": "1263"
-    },
-    {
-        "id": "475",
-        "name": "Reinekea blandensis",
-        "parent": "1593"
-    },
-    {
-        "id": "931",
-        "name": "Renibacterium salmoninarum",
-        "parent": "1342"
-    },
-    {
-        "id": "115",
-        "name": "Rheinheimera nanhaiensis",
-        "parent": "1224"
-    },
-    {
-        "id": "407",
-        "name": "Rheinheimera sp.",
-        "parent": "1224"
     },
     {
         "id": "236",
@@ -8724,29 +6934,9 @@
         "parent": "1045"
     },
     {
-        "id": "293",
-        "name": "Rhodanobacter sp.",
-        "parent": "1151"
-    },
-    {
         "id": "576",
         "name": "Rhodanobacter spathiphylli",
         "parent": "1045"
-    },
-    {
-        "id": "315",
-        "name": "Rhodobacter capsulatus",
-        "parent": "1269"
-    },
-    {
-        "id": "11",
-        "name": "Rhodobacter sphaeroides",
-        "parent": "1269"
-    },
-    {
-        "id": "47",
-        "name": "Rhodobacteraceae bacterium",
-        "parent": "1205"
     },
     {
         "id": "268",
@@ -8759,24 +6949,9 @@
         "parent": "1030"
     },
     {
-        "id": "677",
-        "name": "Rhodococcus hoagii",
-        "parent": "1390"
-    },
-    {
         "id": "604",
         "name": "Rhodomicrobium vannielii",
         "parent": "1643"
-    },
-    {
-        "id": "869",
-        "name": "Rhodopirellula baltica",
-        "parent": "1714"
-    },
-    {
-        "id": "519",
-        "name": "Rhodopseudomonas palustris",
-        "parent": "1088"
     },
     {
         "id": "944",
@@ -8784,24 +6959,9 @@
         "parent": "1088"
     },
     {
-        "id": "771",
-        "name": "Rhodospirillum centenum",
-        "parent": "1514"
-    },
-    {
         "id": "914",
         "name": "Rhodospirillum rubrum",
         "parent": "1582"
-    },
-    {
-        "id": "413",
-        "name": "Rhodovulum sp.",
-        "parent": "1537"
-    },
-    {
-        "id": "693",
-        "name": "Rickettsia prowazekii",
-        "parent": "1695"
     },
     {
         "id": "880",
@@ -8809,39 +6969,9 @@
         "parent": "1219"
     },
     {
-        "id": "817",
-        "name": "Riesia pediculicola",
-        "parent": "1754"
-    },
-    {
-        "id": "587",
-        "name": "Roseibium sp.",
-        "parent": "1558"
-    },
-    {
-        "id": "491",
-        "name": "Roseiflexus sp.",
-        "parent": "1452"
-    },
-    {
         "id": "76",
         "name": "Roseobacter denitrificans",
         "parent": "1215"
-    },
-    {
-        "id": "127",
-        "name": "Roseobacter sp.",
-        "parent": "1063"
-    },
-    {
-        "id": "861",
-        "name": "Roseobacter sp.",
-        "parent": "1179"
-    },
-    {
-        "id": "571",
-        "name": "Roseomonas cervicalis",
-        "parent": "1144"
     },
     {
         "id": "722",
@@ -8849,24 +6979,9 @@
         "parent": "1179"
     },
     {
-        "id": "117",
-        "name": "Rothia mucilaginosa",
-        "parent": "1687"
-    },
-    {
         "id": "66",
         "name": "Rubinisphaera brasiliensis",
         "parent": "1625"
-    },
-    {
-        "id": "339",
-        "name": "Rubrobacter xylanophilus",
-        "parent": "1857"
-    },
-    {
-        "id": "757",
-        "name": "Ruegeria lacuscaerulensis",
-        "parent": "1030"
     },
     {
         "id": "990",
@@ -8874,39 +6989,14 @@
         "parent": "1111"
     },
     {
-        "id": "183",
-        "name": "Ruminiclostridium cellulolyticum",
-        "parent": "1560"
-    },
-    {
         "id": "940",
         "name": "Ruminococcaceae bacterium",
         "parent": "1405"
     },
     {
-        "id": "317",
-        "name": "Ruminococcus albus",
-        "parent": "1778"
-    },
-    {
         "id": "228",
         "name": "Ruminococcus lactaris",
         "parent": "1235"
-    },
-    {
-        "id": "389",
-        "name": "Ruthia magnifica",
-        "parent": "1722"
-    },
-    {
-        "id": "531",
-        "name": "SAR116 cluster",
-        "parent": "1383"
-    },
-    {
-        "id": "175",
-        "name": "Saccharomonospora marina",
-        "parent": "1158"
     },
     {
         "id": "822",
@@ -8919,19 +7009,9 @@
         "parent": "1033"
     },
     {
-        "id": "105",
-        "name": "Saccharophagus degradans",
-        "parent": "1519"
-    },
-    {
         "id": "692",
         "name": "Saccharopolyspora erythraea",
         "parent": "1479"
-    },
-    {
-        "id": "161",
-        "name": "Saccharothrix espanaensis",
-        "parent": "1198"
     },
     {
         "id": "480",
@@ -8939,34 +7019,9 @@
         "parent": "1206"
     },
     {
-        "id": "391",
-        "name": "Salinisphaera shabanensis",
-        "parent": "1710"
-    },
-    {
         "id": "882",
         "name": "Salinispora tropica",
         "parent": "1128"
-    },
-    {
-        "id": "995",
-        "name": "Salipiger bermudensis",
-        "parent": "1206"
-    },
-    {
-        "id": "977",
-        "name": "Salmonella arizonae",
-        "parent": "1007"
-    },
-    {
-        "id": "649",
-        "name": "Salmonella typhimurium",
-        "parent": "1007"
-    },
-    {
-        "id": "307",
-        "name": "Sanguibacter keddieii",
-        "parent": "1345"
     },
     {
         "id": "392",
@@ -8984,29 +7039,14 @@
         "parent": "1112"
     },
     {
-        "id": "345",
-        "name": "Schaalia turicensis",
-        "parent": "1240"
-    },
-    {
         "id": "902",
         "name": "Sebaldella termitidis",
         "parent": "1721"
     },
     {
-        "id": "921",
-        "name": "Sediminispirochaeta smaragdinae",
-        "parent": "1743"
-    },
-    {
         "id": "446",
         "name": "Segniliparus rotundus",
         "parent": "1656"
-    },
-    {
-        "id": "141",
-        "name": "Selenomonas noxia",
-        "parent": "1727"
     },
     {
         "id": "398",
@@ -9019,16 +7059,6 @@
         "parent": "1093"
     },
     {
-        "id": "537",
-        "name": "Shewanella frigidimarina",
-        "parent": "1093"
-    },
-    {
-        "id": "321",
-        "name": "Shewanella pealeana",
-        "parent": "1062"
-    },
-    {
         "id": "804",
         "name": "Shewanella sediminis",
         "parent": "1062"
@@ -9039,19 +7069,9 @@
         "parent": "1003"
     },
     {
-        "id": "289",
-        "name": "Shigella flexneri",
-        "parent": "1003"
-    },
-    {
         "id": "610",
         "name": "Shimwellia blattae",
         "parent": "1178"
-    },
-    {
-        "id": "783",
-        "name": "Shuttleworthia satelles",
-        "parent": "1605"
     },
     {
         "id": "102",
@@ -9064,54 +7084,9 @@
         "parent": "1498"
     },
     {
-        "id": "333",
-        "name": "Simkania negevensis",
-        "parent": "1760"
-    },
-    {
-        "id": "919",
-        "name": "Slackia exigua",
-        "parent": "1393"
-    },
-    {
-        "id": "395",
-        "name": "Slackia heliotrinireducens",
-        "parent": "1393"
-    },
-    {
-        "id": "595",
-        "name": "Solibacillus silvestris",
-        "parent": "1430"
-    },
-    {
-        "id": "901",
-        "name": "Solibacter usitatus",
-        "parent": "1826"
-    },
-    {
-        "id": "635",
-        "name": "Solitalea canadensis",
-        "parent": "1590"
-    },
-    {
-        "id": "297",
-        "name": "Solobacterium moorei",
-        "parent": "1719"
-    },
-    {
-        "id": "401",
-        "name": "Sorangium cellulosum",
-        "parent": "1827"
-    },
-    {
         "id": "104",
         "name": "Sphaerobacter thermophilus",
         "parent": "1471"
-    },
-    {
-        "id": "629",
-        "name": "Sphaerochaeta pleomorpha",
-        "parent": "1743"
     },
     {
         "id": "458",
@@ -9129,84 +7104,14 @@
         "parent": "1016"
     },
     {
-        "id": "933",
-        "name": "Sphingobium japonicum",
-        "parent": "1016"
-    },
-    {
         "id": "536",
         "name": "Sphingobium sp.",
         "parent": "1359"
     },
     {
-        "id": "873",
-        "name": "Sphingobium sp.",
-        "parent": "1050"
-    },
-    {
-        "id": "893",
-        "name": "Sphingomonas sp.",
-        "parent": "1050"
-    },
-    {
-        "id": "495",
-        "name": "Sphingomonas wittichii",
-        "parent": "1600"
-    },
-    {
-        "id": "729",
-        "name": "Sphingopyxis alaskensis",
-        "parent": "1444"
-    },
-    {
-        "id": "199",
-        "name": "Spirochaeta africana",
-        "parent": "1759"
-    },
-    {
-        "id": "761",
-        "name": "Spirochaeta thermophila",
-        "parent": "1720"
-    },
-    {
-        "id": "787",
-        "name": "Spiroplasma melliferum",
-        "parent": "1791"
-    },
-    {
         "id": "468",
         "name": "Sporosarcina newyorkensis",
         "parent": "1430"
-    },
-    {
-        "id": "845",
-        "name": "Stackebrandtia nassauensis",
-        "parent": "1653"
-    },
-    {
-        "id": "347",
-        "name": "Staphylococcus epidermidis",
-        "parent": "1369"
-    },
-    {
-        "id": "283",
-        "name": "Starkeya novella",
-        "parent": "1379"
-    },
-    {
-        "id": "535",
-        "name": "Stigmatella aurantiaca",
-        "parent": "1290"
-    },
-    {
-        "id": "947",
-        "name": "Streptobacillus moniliformis",
-        "parent": "1721"
-    },
-    {
-        "id": "981",
-        "name": "Streptococcus agalactiae",
-        "parent": "1125"
     },
     {
         "id": "872",
@@ -9219,24 +7124,9 @@
         "parent": "1015"
     },
     {
-        "id": "483",
-        "name": "Streptococcus ictaluri",
-        "parent": "1077"
-    },
-    {
         "id": "342",
         "name": "Streptococcus infantis",
         "parent": "1011"
-    },
-    {
-        "id": "821",
-        "name": "Streptococcus infantis",
-        "parent": "1011"
-    },
-    {
-        "id": "831",
-        "name": "Streptococcus mutans",
-        "parent": "1138"
     },
     {
         "id": "28",
@@ -9254,26 +7144,6 @@
         "parent": "1015"
     },
     {
-        "id": "685",
-        "name": "Streptococcus suis",
-        "parent": "1289"
-    },
-    {
-        "id": "733",
-        "name": "Streptococcus thermophilus",
-        "parent": "1163"
-    },
-    {
-        "id": "173",
-        "name": "Streptococcus uberis",
-        "parent": "1077"
-    },
-    {
-        "id": "419",
-        "name": "Streptococcus urinalis",
-        "parent": "1125"
-    },
-    {
         "id": "298",
         "name": "Streptomyces avermitilis",
         "parent": "1054"
@@ -9282,11 +7152,6 @@
         "id": "6",
         "name": "Streptomyces bingchenggensis",
         "parent": "1066"
-    },
-    {
-        "id": "689",
-        "name": "Streptomyces cattleya",
-        "parent": "1279"
     },
     {
         "id": "472",
@@ -9314,31 +7179,6 @@
         "parent": "1043"
     },
     {
-        "id": "985",
-        "name": "Streptomyces pratensis",
-        "parent": "1017"
-    },
-    {
-        "id": "375",
-        "name": "Streptomyces pristinaespiralis",
-        "parent": "1075"
-    },
-    {
-        "id": "373",
-        "name": "Streptomyces scabiei",
-        "parent": "1054"
-    },
-    {
-        "id": "85",
-        "name": "Streptomyces sp.",
-        "parent": "1181"
-    },
-    {
-        "id": "139",
-        "name": "Streptomyces sp.",
-        "parent": "1150"
-    },
-    {
         "id": "292",
         "name": "Streptomyces sp.",
         "parent": "1043"
@@ -9347,21 +7187,6 @@
         "id": "524",
         "name": "Streptomyces sp.",
         "parent": "1017"
-    },
-    {
-        "id": "747",
-        "name": "Streptomyces tsukubensis",
-        "parent": "1166"
-    },
-    {
-        "id": "217",
-        "name": "Streptomyces venezuelae",
-        "parent": "1075"
-    },
-    {
-        "id": "839",
-        "name": "Streptomyces viridosporus",
-        "parent": "1020"
     },
     {
         "id": "836",
@@ -9389,34 +7214,9 @@
         "parent": "1716"
     },
     {
-        "id": "559",
-        "name": "Sulfitobacter indolifex",
-        "parent": "1215"
-    },
-    {
-        "id": "637",
-        "name": "Sulfobacillus acidophilus",
-        "parent": "1818"
-    },
-    {
         "id": "766",
         "name": "Sulfurihydrogenibium azorense",
         "parent": "1335"
-    },
-    {
-        "id": "291",
-        "name": "Sulfurimonas autotrophica",
-        "parent": "1221"
-    },
-    {
-        "id": "849",
-        "name": "Sulfurimonas denitrificans",
-        "parent": "1221"
-    },
-    {
-        "id": "605",
-        "name": "Sulfurospirillum deleyianum",
-        "parent": "1609"
     },
     {
         "id": "630",
@@ -9427,21 +7227,6 @@
         "id": "402",
         "name": "Sutterella parvirubra",
         "parent": "1237"
-    },
-    {
-        "id": "653",
-        "name": "Sutterella wadsworthensis",
-        "parent": "1237"
-    },
-    {
-        "id": "251",
-        "name": "Symbiobacterium thermophilum",
-        "parent": "1789"
-    },
-    {
-        "id": "485",
-        "name": "Synechococcus elongatus",
-        "parent": "1521"
     },
     {
         "id": "158",
@@ -9457,16 +7242,6 @@
         "id": "294",
         "name": "Synechococcus sp.",
         "parent": "1123"
-    },
-    {
-        "id": "299",
-        "name": "Synechococcus sp.",
-        "parent": "1603"
-    },
-    {
-        "id": "365",
-        "name": "Synechococcus sp.",
-        "parent": "1009"
     },
     {
         "id": "930",
@@ -9489,34 +7264,9 @@
         "parent": "1724"
     },
     {
-        "id": "285",
-        "name": "Syntrophobacter fumaroxidans",
-        "parent": "1746"
-    },
-    {
         "id": "466",
         "name": "Syntrophobotulus glycolicus",
         "parent": "1436"
-    },
-    {
-        "id": "201",
-        "name": "Syntrophomonas wolfei",
-        "parent": "1531"
-    },
-    {
-        "id": "687",
-        "name": "Syntrophothermus lipocalidus",
-        "parent": "1531"
-    },
-    {
-        "id": "149",
-        "name": "Syntrophus aciditrophicus",
-        "parent": "1802"
-    },
-    {
-        "id": "487",
-        "name": "Tannerella forsythia",
-        "parent": "1429"
     },
     {
         "id": "800",
@@ -9534,21 +7284,6 @@
         "parent": "1396"
     },
     {
-        "id": "953",
-        "name": "Thalassobium sp.",
-        "parent": "1205"
-    },
-    {
-        "id": "135",
-        "name": "Thauera sp.",
-        "parent": "1167"
-    },
-    {
-        "id": "997",
-        "name": "Thermacetogenium phaeum",
-        "parent": "1611"
-    },
-    {
         "id": "374",
         "name": "Thermanaerovibrio acidaminovorans",
         "parent": "1325"
@@ -9559,44 +7294,14 @@
         "parent": "1616"
     },
     {
-        "id": "575",
-        "name": "Thermoanaerobacter pseudethanolicus",
-        "parent": "1036"
-    },
-    {
-        "id": "865",
-        "name": "Thermoanaerobacterium thermosaccharolyticum",
-        "parent": "1375"
-    },
-    {
         "id": "634",
         "name": "Thermobaculum terrenum",
         "parent": "1797"
     },
     {
-        "id": "509",
-        "name": "Thermobispora bispora",
-        "parent": "1332"
-    },
-    {
-        "id": "925",
-        "name": "Thermocrinis albus",
-        "parent": "1225"
-    },
-    {
-        "id": "897",
-        "name": "Thermodesulfatator indicus",
-        "parent": "1594"
-    },
-    {
         "id": "946",
         "name": "Thermodesulfobacterium geofontis",
         "parent": "1594"
-    },
-    {
-        "id": "79",
-        "name": "Thermodesulfovibrio yellowstonii",
-        "parent": "1775"
     },
     {
         "id": "808",
@@ -9609,29 +7314,9 @@
         "parent": "1694"
     },
     {
-        "id": "619",
-        "name": "Thermosinus carboxydivorans",
-        "parent": "1408"
-    },
-    {
-        "id": "993",
-        "name": "Thermosynechococcus elongatus",
-        "parent": "1394"
-    },
-    {
         "id": "906",
         "name": "Thermovirga lienii",
         "parent": "1544"
-    },
-    {
-        "id": "663",
-        "name": "Thermus thermophilus",
-        "parent": "1326"
-    },
-    {
-        "id": "669",
-        "name": "Thioalkalivibrio sulfidiphilus",
-        "parent": "1377"
     },
     {
         "id": "672",
@@ -9654,41 +7339,6 @@
         "parent": "1554"
     },
     {
-        "id": "847",
-        "name": "Thiorhodococcus drewsii",
-        "parent": "1161"
-    },
-    {
-        "id": "775",
-        "name": "Thiorhodospira sibirica",
-        "parent": "1377"
-    },
-    {
-        "id": "477",
-        "name": "Thiorhodovibrio sp.",
-        "parent": "1431"
-    },
-    {
-        "id": "959",
-        "name": "Thiovulum sp.",
-        "parent": "1751"
-    },
-    {
-        "id": "915",
-        "name": "Tistrella mobilis",
-        "parent": "1677"
-    },
-    {
-        "id": "955",
-        "name": "Treponema brennaborense",
-        "parent": "1570"
-    },
-    {
-        "id": "593",
-        "name": "Treponema caldarium",
-        "parent": "1720"
-    },
-    {
         "id": "964",
         "name": "Treponema pallidum",
         "parent": "1573"
@@ -9699,44 +7349,14 @@
         "parent": "1573"
     },
     {
-        "id": "989",
-        "name": "Treponema saccharophilum",
-        "parent": "1499"
-    },
-    {
-        "id": "701",
-        "name": "Treponema sp.",
-        "parent": "1464"
-    },
-    {
         "id": "748",
         "name": "Treponema succinifaciens",
         "parent": "1464"
     },
     {
-        "id": "707",
-        "name": "Tropheryma whipplei",
-        "parent": "1865"
-    },
-    {
-        "id": "927",
-        "name": "Truepera radiovictrix",
-        "parent": "1700"
-    },
-    {
         "id": "810",
         "name": "Tsukamurella paurometabola",
         "parent": "1425"
-    },
-    {
-        "id": "279",
-        "name": "Turicibacter sanguinis",
-        "parent": "1705"
-    },
-    {
-        "id": "731",
-        "name": "Turneriella parva",
-        "parent": "1847"
     },
     {
         "id": "278",
@@ -9759,18 +7379,8 @@
         "parent": "1698"
     },
     {
-        "id": "961",
-        "name": "Vibrio caribbeanicus",
-        "parent": "1218"
-    },
-    {
         "id": "258",
         "name": "Vibrio cholerae",
-        "parent": "1039"
-    },
-    {
-        "id": "887",
-        "name": "Vibrio furnissii",
         "parent": "1039"
     },
     {
@@ -9799,16 +7409,6 @@
         "parent": "1583"
     },
     {
-        "id": "581",
-        "name": "Weissella paramesenteroides",
-        "parent": "1476"
-    },
-    {
-        "id": "411",
-        "name": "Wigglesworthia glossinidia",
-        "parent": "1686"
-    },
-    {
         "id": "558",
         "name": "Wolbachia sp.",
         "parent": "1661"
@@ -9817,11 +7417,6 @@
         "id": "496",
         "name": "Wolinella succinogenes",
         "parent": "1433"
-    },
-    {
-        "id": "323",
-        "name": "Xanthobacter autotrophicus",
-        "parent": "1212"
     },
     {
         "id": "554",
@@ -9839,19 +7434,9 @@
         "parent": "1018"
     },
     {
-        "id": "471",
-        "name": "Xenorhabdus bovienii",
-        "parent": "1117"
-    },
-    {
         "id": "426",
         "name": "Xylanimonas cellulosilytica",
         "parent": "1366"
-    },
-    {
-        "id": "681",
-        "name": "Xylella fastidiosa",
-        "parent": "1354"
     },
     {
         "id": "378",
@@ -9859,69 +7444,14 @@
         "parent": "1080"
     },
     {
-        "id": "695",
-        "name": "Zinderia insecticola",
-        "parent": "1893"
-    },
-    {
-        "id": "241",
-        "name": "Zymomonas mobilis",
-        "parent": "1600"
-    },
-    {
         "id": "978",
         "name": "[Bacteroides] pectinophilus",
         "parent": "1323"
     },
     {
-        "id": "547",
-        "name": "[Clostridium] asparagiforme",
-        "parent": "1254"
-    },
-    {
-        "id": "741",
-        "name": "[Clostridium] hiranonis",
-        "parent": "1386"
-    },
-    {
-        "id": "233",
-        "name": "[Clostridium] hylemonae",
-        "parent": "1124"
-    },
-    {
         "id": "782",
         "name": "[Clostridium] methylpentosum",
         "parent": "1696"
-    },
-    {
-        "id": "999",
-        "name": "[Clostridium] spiroforme",
-        "parent": "1120"
-    },
-    {
-        "id": "13",
-        "name": "[Clostridium] symbiosum",
-        "parent": "1465"
-    },
-    {
-        "id": "349",
-        "name": "[Eubacterium] cellulosolvens",
-        "parent": "1605"
-    },
-    {
-        "id": "957",
-        "name": "[Oscillatoria] sp.",
-        "parent": "1443"
-    },
-    {
-        "id": "113",
-        "name": "alpha proteobacterium",
-        "parent": "1576"
-    },
-    {
-        "id": "193",
-        "name": "alpha proteobacterium",
-        "parent": "1706"
     },
     {
         "id": "234",
@@ -9934,34 +7464,14 @@
         "parent": "1806"
     },
     {
-        "id": "721",
-        "name": "delta proteobacterium",
-        "parent": "1207"
-    },
-    {
         "id": "922",
         "name": "endosymbiont of",
         "parent": "1597"
     },
     {
-        "id": "37",
-        "name": "gamma proteobacterium",
-        "parent": "1318"
-    },
-    {
-        "id": "89",
-        "name": "gamma proteobacterium",
-        "parent": "1588"
-    },
-    {
         "id": "456",
         "name": "gamma proteobacterium",
         "parent": "1517"
-    },
-    {
-        "id": "617",
-        "name": "gamma proteobacterium",
-        "parent": "1630"
     },
     {
         "id": "734",
@@ -9972,16 +7482,6 @@
         "id": "478",
         "name": "marine actinobacterium",
         "parent": "1395"
-    },
-    {
-        "id": "171",
-        "name": "marine gamma",
-        "parent": "1445"
-    },
-    {
-        "id": "765",
-        "name": "marine gamma",
-        "parent": "1318"
     },
     {
         "id": "818",
