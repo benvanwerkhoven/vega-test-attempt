@@ -41,7 +41,7 @@
   "data": [
     {
       "name": "tree",
-      "url": "data/flare2.json",
+      "url": "data/flare_all.json",
       "transform": [
         {
           "type": "stratify",
