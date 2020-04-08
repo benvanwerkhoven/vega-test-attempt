@@ -1,327 +1,232 @@
 [
     {
-        "id": "1",
-        "name": "",
-        "parent": "54"
-    },
-    {
-        "id": "2",
-        "name": "",
-        "parent": "55"
-    },
-    {
-        "id": "3",
-        "name": "",
-        "parent": "50"
-    },
-    {
-        "id": "7",
-        "name": "",
-        "parent": "57"
-    },
-    {
-        "id": "9",
-        "name": "",
-        "parent": "53"
-    },
-    {
-        "id": "10",
-        "name": "",
-        "parent": "52"
-    },
-    {
-        "id": "12",
-        "name": "",
-        "parent": "51"
-    },
-    {
-        "id": "14",
-        "name": "",
-        "parent": "52"
-    },
-    {
-        "id": "16",
-        "name": "",
-        "parent": "47"
-    },
-    {
-        "id": "18",
-        "name": "",
-        "parent": "49"
-    },
-    {
-        "id": "20",
-        "name": "",
-        "parent": "48"
-    },
-    {
-        "id": "21",
-        "name": "",
-        "parent": "57"
-    },
-    {
-        "id": "24",
-        "name": "",
-        "parent": "49"
-    },
-    {
-        "id": "25",
-        "name": "",
-        "parent": "47"
-    },
-    {
-        "id": "31",
-        "name": "",
-        "parent": "46"
-    },
-    {
         "id": "36",
         "name": "",
-        "parent": "63"
+        "parent": "61"
     },
     {
         "id": "40",
         "name": "",
-        "parent": "61"
+        "parent": "59"
     },
     {
         "id": "41",
         "name": "",
-        "parent": "46"
+        "parent": "44"
     },
     {
         "id": "42",
         "name": "",
-        "parent": "48"
+        "parent": "46"
     },
     {
         "id": "43",
         "name": "",
-        "parent": "62"
+        "parent": "60"
     },
     {
         "id": "44",
         "name": "",
-        "parent": "59"
-    },
-    {
-        "id": "0.0",
-        "name": "",
-        "parent": "45"
-    },
-    {
-        "id": "34.0",
-        "name": "",
-        "parent": "45"
+        "parent": "57"
     },
     {
         "id": "45",
         "name": "",
-        "parent": "50"
+        "parent": "48"
     },
     {
         "id": "46",
         "name": "",
-        "parent": "63"
+        "parent": "61"
     },
     {
         "id": "47",
         "name": "",
-        "parent": "54"
+        "parent": "52"
     },
     {
         "id": "48",
         "name": "",
-        "parent": "51"
+        "parent": "49"
     },
     {
         "id": "49",
         "name": "",
-        "parent": "53"
+        "parent": "51"
     },
     {
         "id": "50",
         "name": "",
-        "parent": "55"
+        "parent": "53"
     },
     {
         "id": "51",
         "name": "",
-        "parent": "56"
+        "parent": "54"
     },
     {
         "id": "52",
         "name": "",
-        "parent": "56"
+        "parent": "54"
     },
     {
         "id": "53",
         "name": "",
-        "parent": "60"
+        "parent": "58"
     },
     {
         "id": "54",
         "name": "",
-        "parent": "58"
+        "parent": "56"
     },
     {
         "id": "55",
         "name": "",
-        "parent": "58"
+        "parent": "56"
     },
     {
         "id": "56",
         "name": "",
-        "parent": "59"
+        "parent": "57"
     },
     {
         "id": "57",
         "name": "",
-        "parent": "60"
+        "parent": "58"
     },
     {
         "id": "58",
         "name": "",
-        "parent": "61"
+        "parent": "59"
     },
     {
         "id": "59",
         "name": "",
-        "parent": "62"
+        "parent": "60"
     },
     {
         "id": "60",
         "name": "",
-        "parent": "64"
+        "parent": "62"
     },
     {
         "id": "61",
         "name": "",
-        "parent": "64"
+        "parent": "62"
     },
     {
         "id": "62",
-        "name": "",
-        "parent": "0"
-    },
-    {
-        "id": "63",
-        "name": "",
-        "parent": "0"
-    },
-    {
-        "id": "64",
         "name": ""
     },
     {
         "id": "31",
         "name": "Ananas comosus",
-        "parent": "31"
+        "parent": "44"
     },
     {
         "id": "16",
         "name": "Anopheles merus",
-        "parent": "16"
+        "parent": "45"
     },
     {
         "id": "0",
         "name": "Aspergillus oryzae",
-        "parent": "44"
+        "parent": "43"
     },
     {
         "id": "24",
         "name": "Brugia malayi",
-        "parent": "24"
+        "parent": "47"
     },
     {
         "id": "27",
         "name": "Columba livia",
-        "parent": "36"
+        "parent": "42"
     },
     {
         "id": "17",
         "name": "Delphinapterus leucas",
-        "parent": "43"
+        "parent": "36"
     },
     {
         "id": "21",
         "name": "Dictyostelium discoideum",
-        "parent": "21"
+        "parent": "55"
     },
     {
         "id": "18",
         "name": "Dracunculus medinensis",
-        "parent": "18"
+        "parent": "47"
     },
     {
         "id": "25",
         "name": "Drosophila willistoni",
-        "parent": "25"
+        "parent": "45"
     },
     {
         "id": "6",
         "name": "Gopherus agassizii",
-        "parent": "40"
+        "parent": "42"
     },
     {
         "id": "12",
         "name": "Heliothis virescens",
-        "parent": "12"
+        "parent": "49"
     },
     {
         "id": "9",
         "name": "Helobdella robusta",
-        "parent": "9"
+        "parent": "51"
     },
     {
         "id": "26",
         "name": "Lipotes vexillifer",
-        "parent": "43"
+        "parent": "36"
     },
     {
         "id": "29",
         "name": "Mus musculus",
-        "parent": "43"
+        "parent": "36"
     },
     {
         "id": "20",
         "name": "Neolamprologus brichardi",
-        "parent": "20"
+        "parent": "46"
     },
     {
         "id": "19",
         "name": "Penicillium digitatum",
-        "parent": "40"
+        "parent": "43"
     },
     {
         "id": "28",
         "name": "Penicillium italicum",
-        "parent": "40"
+        "parent": "43"
     },
     {
         "id": "13",
         "name": "Phaseolus vulgaris",
-        "parent": "42"
+        "parent": "41"
     },
     {
         "id": "8",
         "name": "Physeter macrocephalus",
-        "parent": "44"
+        "parent": "36"
     },
     {
         "id": "3",
         "name": "Rhodnius prolixus",
-        "parent": "3"
+        "parent": "48"
     },
     {
         "id": "7",
         "name": "Sclerotinia sclerotiorum",
-        "parent": "7"
+        "parent": "55"
     },
     {
         "id": "30",
         "name": "Streptomyces coelicolor",
-        "parent": "41"
+        "parent": "40"
     },
     {
         "id": "5",
@@ -331,46 +236,46 @@
     {
         "id": "4",
         "name": "Streptomyces peucetius",
-        "parent": "41"
+        "parent": "40"
     },
     {
         "id": "23",
         "name": "Streptomyces viridosporus",
-        "parent": "41"
+        "parent": "40"
     },
     {
         "id": "22",
         "name": "Taeniopygia guttata",
-        "parent": "36"
+        "parent": "42"
     },
     {
         "id": "15",
         "name": "Theobroma cacao",
-        "parent": "42"
+        "parent": "41"
     },
     {
         "id": "1",
         "name": "Trichinella spiralis",
-        "parent": "1"
+        "parent": "52"
     },
     {
         "id": "11",
         "name": "Xenopus laevis",
-        "parent": "43"
+        "parent": "42"
     },
     {
         "id": "2",
         "name": "alpha proteobacterium",
-        "parent": "2"
+        "parent": "53"
     },
     {
         "id": "10",
         "name": "alpha proteobacterium",
-        "parent": "10"
+        "parent": "50"
     },
     {
         "id": "14",
         "name": "alpha proteobacterium",
-        "parent": "14"
+        "parent": "50"
     }
 ]
